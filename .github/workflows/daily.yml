@@ -1,0 +1,30 @@
+
+# /.github/workflows/daily.yml
+# based on https://github.com/carbonphyber/watch-epa-superfund-sites/blob/main/.github/workflows/daily.yml
+on:
+  schedule:
+    - cron:  '0 * * * *' # every day at 8am
+name: Pull Data and Build
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Log Python location
+      run: which python
+    - name: Scrape
+      run: |
+        curl -o data/calfire-active-incidents-raw.json --no-progress-meter "https://www.fire.ca.gov/umbraco/api/IncidentApi/List?inactive=false&ts=$(date +%s)"
+    - name: Scrape
+      run: |
+        curl -o data/calfire-inactive-incidents-raw.json --no-progress-meter "https://www.fire.ca.gov/umbraco/api/IncidentApi/List?inactive=true&ts=$(date +%s)"
+    - name: Pretty Print the JSON
+      run: |
+        cat data/calfire-active-incidents-raw.json | python -m json.tool > data/calfire-active-incidents.json
+    - name: Pretty Print the JSON
+      run: |
+        cat data/calfire-inactive-incidents-raw.json | python -m json.tool > data/calfire-inactive-incidents.json
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
