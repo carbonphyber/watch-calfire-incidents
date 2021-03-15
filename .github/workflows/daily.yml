@@ -3,7 +3,7 @@
 # based on https://github.com/carbonphyber/watch-epa-superfund-sites/blob/main/.github/workflows/daily.yml
 on:
   schedule:
-    - cron:  '0 * * * *' # every day at 8am
+    - cron:  '0/15 * * * *'
 name: Pull Data and Build
 jobs:
   build:
@@ -25,6 +25,10 @@ jobs:
     - name: Pretty Print the JSON
       run: |
         cat data/calfire-inactive-incidents-raw.json | python -m json.tool > data/calfire-inactive-incidents.json
-    - uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
+    - name: Commit new data
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add data/
+        TIMESTAMP_NOW=`date -u +"%Y-%m-%dT%H:%M:%SZ"` git commit -m "data scraped at $TIMESTAMP_NOW"
+        git push
