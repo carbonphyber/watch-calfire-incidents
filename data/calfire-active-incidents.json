@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Grapevine Fire",
+        "Final": false,
+        "Updated": "2021-03-14T09:38:57Z",
+        "Started": "2021-03-14T18:35:00Z",
+        "AdminUnit": "Bureau of Land Management",
+        "AdminUnitUrl": null,
+        "County": "Kern",
+        "Location": "Grapevine Canyon & West of Hwy 395, Northwest of Ridgecrest",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Bureau of Land Management ",
+        "Longitude": -117.5910734433329,
+        "Latitude": 35.5819816117628,
+        "Type": "Wildfire",
+        "UniqueId": "21a360ea-3a4e-4267-986e-3bb1416ca05b",
+        "Url": "https://www.fire.ca.gov/incidents/2021/3/14/grapevine-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-03-14",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
+    }
+]
