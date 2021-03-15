@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
     - name: Log Python location
       run: which python
     - name: Scrape
@@ -19,16 +23,19 @@ jobs:
     - name: Scrape
       run: |
         curl -o data/calfire-inactive-incidents-raw.json --no-progress-meter "https://www.fire.ca.gov/umbraco/api/IncidentApi/List?inactive=true&ts=$(date +%s)"
-    #- name: Pretty Print the JSON
-    #  run: |
-    #    cat data/calfire-active-incidents-raw.json | python -m json.tool > data/calfire-active-incidents.json
-    #- name: Pretty Print the JSON
-    #  run: |
-    #    cat data/calfire-inactive-incidents-raw.json | python -m json.tool > data/calfire-inactive-incidents.json
+    - name: Pretty Print the JSON
+      run: |
+        cat data/calfire-active-incidents-raw.json | python -m json.tool > data/calfire-active-incidents.json
+    - name: Pretty Print the JSON
+      run: |
+        cat data/calfire-inactive-incidents-raw.json | python -m json.tool > data/calfire-inactive-incidents.json
     - name: Commit new data
       run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add data/
-        TIMESTAMP_NOW=`date -u +"%Y-%m-%dT%H:%M:%SZ"` git commit -m "data scraped at $TIMESTAMP_NOW"
-        git push
+        if [[ -n "$(git status -s -- data/)" ]] then
+          TIMESTAMP_NOW=`date -u +"%Y-%m-%dT%H:%M:%SZ"`
+          git commit -m "data scraped at $TIMESTAMP_NOW"
+          git push
+        fi
