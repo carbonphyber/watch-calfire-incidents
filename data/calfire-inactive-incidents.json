@@ -63573,5 +63573,30 @@
         "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Line Fire",
+        "Final": false,
+        "Updated": "2021-03-29T19:08:54Z",
+        "Started": "2021-03-28T14:43:24Z",
+        "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+        "AdminUnitUrl": null,
+        "County": "Tuolumne",
+        "Location": "Shortline Rd and Hells Hollow Rd, East of Groveland",
+        "AcresBurned": 23.0,
+        "PercentContained": 80.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.131236,
+        "Latitude": 37.813464,
+        "Type": "Fire",
+        "UniqueId": "0c3c5916-b391-4916-ad16-059c094da426",
+        "Url": "https://www.fire.ca.gov/incidents/2021/3/28/line-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-03-28",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
