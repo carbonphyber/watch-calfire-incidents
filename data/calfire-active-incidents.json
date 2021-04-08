@@ -23,5 +23,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Onion Fire",
+        "Final": false,
+        "Updated": "2021-04-07T20:55:58Z",
+        "Started": "2021-04-07T17:52:07Z",
+        "AdminUnit": "Unified Command: Inyo National Forest and CAL FIRE/BDU",
+        "AdminUnitUrl": null,
+        "County": "Inyo",
+        "Location": "Onion Valley Road and Foothill Road",
+        "AcresBurned": 100.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -118.266337,
+        "Latitude": 36.774736,
+        "Type": "Fire",
+        "UniqueId": "02c35ef9-20a6-40f9-8dbd-dce566a9c4a3",
+        "Url": "https://www.fire.ca.gov/incidents/2021/4/7/onion-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-04-07",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
