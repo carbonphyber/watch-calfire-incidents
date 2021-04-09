@@ -63652,7 +63652,7 @@
     {
         "Name": "Springs Fire",
         "Final": false,
-        "Updated": "2021-04-06T08:25:56Z",
+        "Updated": "2021-04-09T10:49:21Z",
         "Started": "2021-04-05T18:10:13Z",
         "AdminUnit": "USFS Angeles National Forest",
         "AdminUnitUrl": null,
@@ -63664,7 +63664,7 @@
         "AgencyNames": "USFS Angeles National Forest ",
         "Longitude": -117.83474297768298,
         "Latitude": 34.432082419313794,
-        "Type": "",
+        "Type": "Fire",
         "UniqueId": "7fea7a43-3194-439f-9649-dccdd54357d0",
         "Url": "https://www.fire.ca.gov/incidents/2021/4/5/springs-fire/",
         "ExtinguishedDate": "",
