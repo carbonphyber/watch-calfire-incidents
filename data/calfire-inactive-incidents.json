@@ -63698,5 +63698,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Paso Fire",
+        "Final": false,
+        "Updated": "2021-04-12T18:44:23Z",
+        "Started": "2021-04-12T18:44:23Z",
+        "AdminUnit": "CAL FIRE San Diego Unit",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Lookout Road and Hwy 79, North of Cuyamaca Rancho State Park",
+        "AcresBurned": 15.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.582369,
+        "Latitude": 32.958961,
+        "Type": "Wildfire",
+        "UniqueId": "02ba1be4-fecc-49a6-927d-8da38d215851",
+        "Url": "https://www.fire.ca.gov/incidents/2021/4/12/paso-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-04-12",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
