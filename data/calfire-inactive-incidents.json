@@ -63698,5 +63698,30 @@
         "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Turnout Fire",
+        "Final": false,
+        "Updated": "2021-04-18T19:36:08Z",
+        "Started": "2021-04-18T17:46:54Z",
+        "AdminUnit": "CAL FIRE Mendocino Unit",
+        "AdminUnitUrl": null,
+        "County": "Mendocino",
+        "Location": "Highway 253 and Boonville Rd",
+        "AcresBurned": 50.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -123.35838,
+        "Latitude": 38.99914,
+        "Type": "Wildfire",
+        "UniqueId": "6a7cee19-fc90-4f87-a306-48ccd9cee200",
+        "Url": "https://www.fire.ca.gov/incidents/2021/4/18/turnout-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-04-18",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
