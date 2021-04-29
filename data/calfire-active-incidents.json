@@ -48,5 +48,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Sky Fire",
+        "Final": false,
+        "Updated": "2021-04-29T21:21:21Z",
+        "Started": "2021-04-29T12:44:00Z",
+        "AdminUnit": "CAL FIRE Sonoma-Lake Napa Unit",
+        "AdminUnitUrl": null,
+        "County": "Lake",
+        "Location": "Morgan Valley Road and Sloan Ranch Road, Southeast of Clearlake",
+        "AcresBurned": 25.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.51771555326388,
+        "Latitude": 38.88437128468346,
+        "Type": "Wildfire",
+        "UniqueId": "5f8ebcac-e1f0-4659-9f38-f3e862a3a440",
+        "Url": "https://www.fire.ca.gov/incidents/2021/4/29/sky-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-04-29",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
