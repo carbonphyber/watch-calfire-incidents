@@ -63898,5 +63898,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Creek Fire",
+        "Final": false,
+        "Updated": "2021-05-04T23:34:59Z",
+        "Started": "2021-05-04T13:28:00Z",
+        "AdminUnit": "CAL FIRE Riverside Unit",
+        "AdminUnitUrl": null,
+        "County": "Riverside",
+        "Location": "Cahuilla Creek Motocross and Highway 371 in Anza",
+        "AcresBurned": 20.0,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.767011,
+        "Latitude": 33.532246,
+        "Type": "Wildfire",
+        "UniqueId": "fb63695d-fd59-47dd-9247-e5a7099b5fce",
+        "Url": "https://www.fire.ca.gov/incidents/2021/5/4/creek-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-05-04",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
