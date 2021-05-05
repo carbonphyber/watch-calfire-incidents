@@ -63923,5 +63923,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Bridge Fire",
+        "Final": false,
+        "Updated": "2021-05-05T23:30:06Z",
+        "Started": "2021-05-05T23:30:06Z",
+        "AdminUnit": "CAL FIRE/Riverside County Fire Department",
+        "AdminUnitUrl": null,
+        "County": "Riverside",
+        "Location": "Gilman Springs Road and Bridge Street",
+        "AcresBurned": 40.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "CAL FIRE/Riverside County Fire Department",
+        "Longitude": -117.044072,
+        "Latitude": 33.86972,
+        "Type": "Wildfire",
+        "UniqueId": "c3f573fc-ece2-4b19-a67e-069bf3fc0c16",
+        "Url": "https://www.fire.ca.gov/incidents/2021/5/5/bridge-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-05-05",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
