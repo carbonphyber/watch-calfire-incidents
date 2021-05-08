@@ -23,5 +23,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Gunnison Fire",
+        "Final": false,
+        "Updated": "2021-05-08T21:57:38Z",
+        "Started": "2021-05-08T13:44:53Z",
+        "AdminUnit": "CAL FIRE Butte County Unit",
+        "AdminUnitUrl": null,
+        "County": "Butte",
+        "Location": "Munjar Road and Meridian Road",
+        "AcresBurned": 100.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.91936,
+        "Latitude": 39.85479,
+        "Type": "Wildfire",
+        "UniqueId": "25d0bdd9-c422-459a-bc12-d9cae4843518",
+        "Url": "https://www.fire.ca.gov/incidents/2021/5/8/gunnison-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-05-08",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
