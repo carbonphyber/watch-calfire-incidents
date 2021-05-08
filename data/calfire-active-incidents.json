@@ -48,5 +48,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Granite Fire",
+        "Final": false,
+        "Updated": "2021-05-08T23:29:13Z",
+        "Started": "2021-05-08T15:02:45Z",
+        "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+        "AdminUnitUrl": null,
+        "County": "Calaveras",
+        "Location": "Milton Road and Rock Creek Road",
+        "AcresBurned": 50.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.85258,
+        "Latitude": 38.03106,
+        "Type": "Wildfire",
+        "UniqueId": "baef627e-c3ba-4c3c-8a55-a168839aa2c8",
+        "Url": "https://www.fire.ca.gov/incidents/2021/5/8/granite-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-05-08",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
