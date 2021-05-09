@@ -64001,8 +64001,8 @@
     },
     {
         "Name": "Dillard Fire",
-        "Final": false,
-        "Updated": "2021-05-09T02:28:20Z",
+        "Final": true,
+        "Updated": "2021-05-09T03:05:57Z",
         "Started": "2021-05-08T17:29:49Z",
         "AdminUnit": "Sacramento County Metro Fire Department",
         "AdminUnitUrl": null,
@@ -64017,10 +64017,10 @@
         "Type": "Wildfire",
         "UniqueId": "0b59568a-ab13-4acf-965a-18e9b18ae223",
         "Url": "https://www.fire.ca.gov/incidents/2021/5/8/dillard-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
+        "ExtinguishedDate": "2021-05-08T20:05:33Z",
+        "ExtinguishedDateOnly": "2021-05-08",
         "StartedDateOnly": "2021-05-08",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     }
