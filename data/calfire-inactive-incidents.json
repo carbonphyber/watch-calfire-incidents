@@ -64023,5 +64023,30 @@
         "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Quail Fire",
+        "Final": false,
+        "Updated": "2021-05-12T20:48:43Z",
+        "Started": "2021-05-12T20:48:43Z",
+        "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
+        "AdminUnitUrl": null,
+        "County": "Yuba",
+        "Location": "Quail Run Ave and Key Ct, northwest of Smartsville",
+        "AcresBurned": 25.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.361339,
+        "Latitude": 39.2510745,
+        "Type": "Wildfire",
+        "UniqueId": "ee1dc476-97d4-4da9-a2ba-d3e9f5116309",
+        "Url": "https://www.fire.ca.gov/incidents/2021/5/12/quail-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-05-12",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
