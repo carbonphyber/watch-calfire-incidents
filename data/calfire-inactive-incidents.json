@@ -64077,7 +64077,7 @@
     {
         "Name": "Fields Fire",
         "Final": false,
-        "Updated": "2021-05-14T22:25:39Z",
+        "Updated": "2021-05-14T22:37:16Z",
         "Started": "2021-05-14T14:00:00Z",
         "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
         "AdminUnitUrl": null,
@@ -64087,7 +64087,7 @@
         "PercentContained": 0.0,
         "ControlStatement": null,
         "AgencyNames": "",
-        "Longitude": 37.560209,
+        "Longitude": -120.419624,
         "Latitude": 37.560209,
         "Type": "Wildfire",
         "UniqueId": "5afc3e64-eb8a-4aad-9bb5-1f9a20f84bb0",
