@@ -64073,5 +64073,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Fields Fire",
+        "Final": false,
+        "Updated": "2021-05-14T22:25:39Z",
+        "Started": "2021-05-14T14:00:00Z",
+        "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+        "AdminUnitUrl": null,
+        "County": "Merced",
+        "Location": "La Grange Rd and Fields Rd, Community of Snelling",
+        "AcresBurned": 60.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": 37.560209,
+        "Latitude": 37.560209,
+        "Type": "Wildfire",
+        "UniqueId": "5afc3e64-eb8a-4aad-9bb5-1f9a20f84bb0",
+        "Url": "https://www.fire.ca.gov/incidents/2021/5/14/fields-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-05-14",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
