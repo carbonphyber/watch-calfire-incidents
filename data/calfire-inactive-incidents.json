@@ -64198,5 +64198,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Settlers Fire",
+        "Final": false,
+        "Updated": "2021-05-19T21:08:24Z",
+        "Started": "2021-05-19T14:56:00Z",
+        "AdminUnit": "CAL FIRE Amador El Dorado Unit",
+        "AdminUnitUrl": null,
+        "County": "El Dorado",
+        "Location": "Settlers Trail, East of Latrobe",
+        "AcresBurned": 45.0,
+        "PercentContained": 60.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.01365,
+        "Latitude": 38.56101,
+        "Type": "",
+        "UniqueId": "aefbc94c-63b5-4767-aa12-a8bc8ed80d87",
+        "Url": "https://www.fire.ca.gov/incidents/2021/5/19/settlers-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-05-19",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
