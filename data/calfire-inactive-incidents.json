@@ -64152,11 +64152,11 @@
     {
         "Name": "Davis Fire",
         "Final": true,
-        "Updated": "2021-05-19T07:44:31Z",
+        "Updated": "2021-05-20T08:07:58Z",
         "Started": "2021-05-18T13:30:00Z",
         "AdminUnit": "CAL FIRE Riverside County Fire Department",
         "AdminUnitUrl": null,
-        "County": "",
+        "County": "Riverside",
         "Location": "Davis Road and Theodore Street, Southeast of Moreno Valley",
         "AcresBurned": 300.0,
         "PercentContained": 100.0,
