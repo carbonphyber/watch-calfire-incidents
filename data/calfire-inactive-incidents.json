@@ -64323,5 +64323,30 @@
         "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Live Oak Fire",
+        "Final": false,
+        "Updated": "2021-05-27T18:35:27Z",
+        "Started": "2021-05-27T14:36:00Z",
+        "AdminUnit": "CAL FIRE Madera Mariposa Merced Unit",
+        "AdminUnitUrl": null,
+        "County": "",
+        "Location": "Live Oak Rd and Yaqui Gulch Rd, West of Mormon Bar",
+        "AcresBurned": 200.0,
+        "PercentContained": 5.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.00392,
+        "Latitude": 37.45646,
+        "Type": "",
+        "UniqueId": "4f6bdd52-abdc-4c93-a48b-7d7adae05cfc",
+        "Url": "https://www.fire.ca.gov/incidents/2021/5/27/live-oak-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-05-27",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
