@@ -27,14 +27,14 @@
     {
         "Name": "Sargents Fire",
         "Final": false,
-        "Updated": "2021-05-31T18:55:17Z",
+        "Updated": "2021-06-01T07:45:43Z",
         "Started": "2021-05-30T15:10:29Z",
         "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
         "AdminUnitUrl": null,
         "County": "Monterey",
         "Location": "Wunpost Rd and Sargeant Canyon Rd, Northeast of Bradley",
         "AcresBurned": 1100.0,
-        "PercentContained": 60.0,
+        "PercentContained": 80.0,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -120.87327388913826,
@@ -52,14 +52,14 @@
     {
         "Name": "Slope Fire",
         "Final": false,
-        "Updated": "2021-05-31T18:56:19Z",
+        "Updated": "2021-06-01T07:48:44-07:00",
         "Started": "2021-05-31T16:24:20Z",
         "AdminUnit": "Fresno-Kings County Fire",
         "AdminUnitUrl": null,
         "County": "",
         "Location": "Off Trimmer Springs Road and Sunnyslope Road in Fresno County.",
         "AcresBurned": 30.0,
-        "PercentContained": 20.0,
+        "PercentContained": 70.0,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -119.3484121800294,
@@ -72,7 +72,7 @@
         "StartedDateOnly": "2021-05-31",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": false
+        "NotificationDesired": true
     },
     {
         "Name": "Smalley Fire",
