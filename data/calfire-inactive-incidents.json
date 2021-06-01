@@ -64402,7 +64402,7 @@
     {
         "Name": "Slope Fire",
         "Final": false,
-        "Updated": "2021-06-01T07:48:44-07:00",
+        "Updated": "2021-06-01T07:48:44Z",
         "Started": "2021-05-31T16:24:20Z",
         "AdminUnit": "Fresno-Kings County Fire",
         "AdminUnitUrl": null,
@@ -64422,19 +64422,19 @@
         "StartedDateOnly": "2021-05-31",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     },
     {
         "Name": "Smalley Fire",
         "Final": false,
-        "Updated": "2021-05-31T20:14:38Z",
+        "Updated": "2021-06-01T07:52:04Z",
         "Started": "2021-05-31T19:12:45Z",
         "AdminUnit": "Madera-Mariposa-Merced Unit",
         "AdminUnitUrl": null,
         "County": "Madera",
         "Location": "Road 222 and Tunoi Place , South of the town of North Fork in Madera County.",
-        "AcresBurned": 40.0,
-        "PercentContained": 0.0,
+        "AcresBurned": 45.0,
+        "PercentContained": 35.0,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -119.5166045,
