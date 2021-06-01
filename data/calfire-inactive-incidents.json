@@ -64398,5 +64398,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Slope Fire",
+        "Final": false,
+        "Updated": "2021-05-31T16:29:49Z",
+        "Started": "2021-05-31T16:24:20Z",
+        "AdminUnit": "Fresno-Kings County Fire",
+        "AdminUnitUrl": null,
+        "County": "",
+        "Location": "Off Trimmer Springs Road and Sunnyslope Road in Fresno County.",
+        "AcresBurned": 30.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -119.3484121800294,
+        "Latitude": 36.86201725309289,
+        "Type": "Wildfire",
+        "UniqueId": "81777c5a-cf1d-4161-a261-97c55a8393c0",
+        "Url": "https://www.fire.ca.gov/incidents/2021/5/31/slope-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-05-31",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
