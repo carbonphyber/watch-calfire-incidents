@@ -5752,7 +5752,7 @@
     {
         "Name": "Finley Fire",
         "Final": true,
-        "Updated": "2008-08-31T08:00:00Z",
+        "Updated": "2021-06-04T10:47:39Z",
         "Started": "1969-12-31T16:00:00Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
         "AdminUnitUrl": null,
@@ -32502,7 +32502,7 @@
     {
         "Name": "Moreno Fire",
         "Final": true,
-        "Updated": "2018-01-09T10:08:00Z",
+        "Updated": "2021-06-04T10:48:19Z",
         "Started": "2017-05-23T13:13:00Z",
         "AdminUnit": "CAL FIRE/Riverside County Fire",
         "AdminUnitUrl": null,
@@ -32510,7 +32510,7 @@
         "Location": "Ironwood Avenue and Moreno Beach Drive",
         "AcresBurned": 10.0,
         "PercentContained": 100.0,
-        "ControlStatement": "",
+        "ControlStatement": ".",
         "AgencyNames": "CAL FIRE/Riverside County Fire",
         "Longitude": -117.17773,
         "Latitude": 33.94673,
