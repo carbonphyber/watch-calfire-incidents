@@ -64476,15 +64476,15 @@
     },
     {
         "Name": "Coyote Fire",
-        "Final": false,
-        "Updated": "2021-06-04T07:27:01Z",
+        "Final": true,
+        "Updated": "2021-06-04T17:11:51-07:00",
         "Started": "2021-06-02T18:30:00Z",
-        "AdminUnit": "CAL FIRE RRU",
+        "AdminUnit": "CAL FIRE/Riverside County Fire Department",
         "AdminUnitUrl": null,
         "County": "Riverside",
         "Location": "Old Banning Idyllwild Road, south of Shirleon Drive",
         "AcresBurned": 43.0,
-        "PercentContained": 90.0,
+        "PercentContained": 100.0,
         "ControlStatement": null,
         "AgencyNames": "CAL FIRE RRU",
         "Longitude": -116.90145,
@@ -64492,11 +64492,11 @@
         "Type": "Fire",
         "UniqueId": "760bd55e-7296-44c7-a8ea-917e1751d811",
         "Url": "https://www.fire.ca.gov/incidents/2021/6/2/coyote-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
+        "ExtinguishedDate": "2021-06-04T17:11:26",
+        "ExtinguishedDateOnly": "2021-06-04",
         "StartedDateOnly": "2021-06-02",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": true,
-        "NotificationDesired": false
+        "NotificationDesired": true
     }
 ]
