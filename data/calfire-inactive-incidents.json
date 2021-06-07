@@ -64498,5 +64498,30 @@
         "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": true
+    },
+    {
+        "Name": "Buck Fire",
+        "Final": false,
+        "Updated": "2021-06-06T19:17:01-07:00",
+        "Started": "2021-06-06T15:20:52",
+        "AdminUnit": "CAL FIRE/ Madera-Mariposa-Merced Unit",
+        "AdminUnitUrl": null,
+        "County": "Madera",
+        "Location": "Rd 600 and Rd 612,  East of Raymond",
+        "AcresBurned": 59.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -119.86047836209606,
+        "Latitude": 37.24484944019164,
+        "Type": "Wildfire",
+        "UniqueId": "1a1a9275-f16f-4a06-abe6-3ba18e5e9b33",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/6/buck-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-06",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
