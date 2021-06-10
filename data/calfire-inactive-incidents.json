@@ -64598,5 +64598,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Creek Fire",
+        "Final": false,
+        "Updated": "2021-06-09T21:47:17-07:00",
+        "Started": "2021-06-09T20:00:00",
+        "AdminUnit": "CAL FIRE Sonoma-Lake-Napa",
+        "AdminUnitUrl": null,
+        "County": "Yolo",
+        "Location": "Highway 16 and Road 41, North of Rumsey",
+        "AcresBurned": 20.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.238889,
+        "Latitude": 38.899722,
+        "Type": "Wildfire",
+        "UniqueId": "09996c3f-3186-4c5d-8006-ced791b3ff40",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/9/creek-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-09",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": true
     }
 ]
