@@ -48,5 +48,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": true
+    },
+    {
+        "Name": "Sierra Fire",
+        "Final": false,
+        "Updated": "2021-06-09T17:54:00-07:00",
+        "Started": "2021-06-09T13:53:00",
+        "AdminUnit": "Camp Pendleton",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Basilone Road and Stagecoach Road, West of Camp Pendleton North",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Camp Pendleton ",
+        "Longitude": -117.34832277422022,
+        "Latitude": 33.315711565249096,
+        "Type": "Wildfire",
+        "UniqueId": "b6391e06-889a-4d69-ba3e-8491af004029",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/9/sierra-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-09",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
