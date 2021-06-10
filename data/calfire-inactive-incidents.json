@@ -64252,7 +64252,7 @@
     {
         "Name": "Bluff Fire",
         "Final": false,
-        "Updated": "2021-06-07T08:27:30-07:00",
+        "Updated": "2021-06-07T08:27:30Z",
         "Started": "2021-05-21T06:55:59Z",
         "AdminUnit": "USFS Six Rivers National Forest",
         "AdminUnitUrl": null,
@@ -64267,7 +64267,7 @@
         "Type": "Wildfire",
         "UniqueId": "8e8900a0-814f-425a-8b37-bd5098222959",
         "Url": "https://www.fire.ca.gov/incidents/2021/5/21/bluff-fire/",
-        "ExtinguishedDate": "2021-06-06T12:26:00",
+        "ExtinguishedDate": "2021-06-06T12:26:00Z",
         "ExtinguishedDateOnly": "2021-06-06",
         "StartedDateOnly": "2021-05-21",
         "IsActive": false,
@@ -64477,7 +64477,7 @@
     {
         "Name": "Coyote Fire",
         "Final": true,
-        "Updated": "2021-06-04T17:11:51-07:00",
+        "Updated": "2021-06-04T17:11:51Z",
         "Started": "2021-06-02T18:30:00Z",
         "AdminUnit": "CAL FIRE/Riverside County Fire Department",
         "AdminUnitUrl": null,
@@ -64492,18 +64492,18 @@
         "Type": "Fire",
         "UniqueId": "760bd55e-7296-44c7-a8ea-917e1751d811",
         "Url": "https://www.fire.ca.gov/incidents/2021/6/2/coyote-fire/",
-        "ExtinguishedDate": "2021-06-04T17:11:26",
+        "ExtinguishedDate": "2021-06-04T17:11:26Z",
         "ExtinguishedDateOnly": "2021-06-04",
         "StartedDateOnly": "2021-06-02",
         "IsActive": false,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     },
     {
         "Name": "Buck Fire",
         "Final": true,
-        "Updated": "2021-06-08T18:33:01-07:00",
-        "Started": "2021-06-06T15:20:52",
+        "Updated": "2021-06-08T18:33:01Z",
+        "Started": "2021-06-06T15:20:52Z",
         "AdminUnit": "CAL FIRE/ Madera-Mariposa-Merced Unit",
         "AdminUnitUrl": null,
         "County": "Madera",
@@ -64517,7 +64517,7 @@
         "Type": "Wildfire",
         "UniqueId": "1a1a9275-f16f-4a06-abe6-3ba18e5e9b33",
         "Url": "https://www.fire.ca.gov/incidents/2021/6/6/buck-fire/",
-        "ExtinguishedDate": "2021-06-08T18:32:58",
+        "ExtinguishedDate": "2021-06-08T18:32:58Z",
         "ExtinguishedDateOnly": "2021-06-08",
         "StartedDateOnly": "2021-06-06",
         "IsActive": false,
@@ -64527,8 +64527,8 @@
     {
         "Name": "Intanko Fire",
         "Final": false,
-        "Updated": "2021-06-09T19:11:17-07:00",
-        "Started": "2021-06-08T13:59:00",
+        "Updated": "2021-06-09T19:11:17Z",
+        "Started": "2021-06-08T13:59:00Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
         "AdminUnitUrl": null,
         "County": "Yuba",
@@ -64547,13 +64547,13 @@
         "StartedDateOnly": "2021-06-08",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     },
     {
         "Name": "Farm Fire",
         "Final": false,
-        "Updated": "2021-06-09T19:09:47-07:00",
-        "Started": "2021-06-09T13:15:00",
+        "Updated": "2021-06-09T19:09:47Z",
+        "Started": "2021-06-09T13:15:00Z",
         "AdminUnit": "Unified Command: CAL FIRE San Bernardino Unit and San Bernardino County Fire Department",
         "AdminUnitUrl": null,
         "County": "San Bernardino",
@@ -64572,13 +64572,13 @@
         "StartedDateOnly": "2021-06-09",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     },
     {
         "Name": "Sierra Fire",
         "Final": false,
-        "Updated": "2021-06-09T17:54:00-07:00",
-        "Started": "2021-06-09T13:53:00",
+        "Updated": "2021-06-09T17:54:00Z",
+        "Started": "2021-06-09T13:53:00Z",
         "AdminUnit": "Camp Pendleton",
         "AdminUnitUrl": null,
         "County": "San Diego",
@@ -64602,8 +64602,8 @@
     {
         "Name": "Creek Fire",
         "Final": false,
-        "Updated": "2021-06-09T21:47:17-07:00",
-        "Started": "2021-06-09T20:00:00",
+        "Updated": "2021-06-09T21:47:17Z",
+        "Started": "2021-06-09T20:00:00Z",
         "AdminUnit": "CAL FIRE Sonoma-Lake-Napa",
         "AdminUnitUrl": null,
         "County": "Yolo",
@@ -64622,6 +64622,6 @@
         "StartedDateOnly": "2021-06-09",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     }
 ]

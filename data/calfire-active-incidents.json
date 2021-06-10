@@ -2,8 +2,8 @@
     {
         "Name": "Intanko Fire",
         "Final": false,
-        "Updated": "2021-06-09T19:11:17-07:00",
-        "Started": "2021-06-08T13:59:00",
+        "Updated": "2021-06-09T19:11:17Z",
+        "Started": "2021-06-08T13:59:00Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
         "AdminUnitUrl": null,
         "County": "Yuba",
@@ -22,13 +22,13 @@
         "StartedDateOnly": "2021-06-08",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     },
     {
         "Name": "Farm Fire",
         "Final": false,
-        "Updated": "2021-06-09T19:09:47-07:00",
-        "Started": "2021-06-09T13:15:00",
+        "Updated": "2021-06-09T19:09:47Z",
+        "Started": "2021-06-09T13:15:00Z",
         "AdminUnit": "Unified Command: CAL FIRE San Bernardino Unit and San Bernardino County Fire Department",
         "AdminUnitUrl": null,
         "County": "San Bernardino",
@@ -47,13 +47,13 @@
         "StartedDateOnly": "2021-06-09",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     },
     {
         "Name": "Sierra Fire",
         "Final": false,
-        "Updated": "2021-06-09T17:54:00-07:00",
-        "Started": "2021-06-09T13:53:00",
+        "Updated": "2021-06-09T17:54:00Z",
+        "Started": "2021-06-09T13:53:00Z",
         "AdminUnit": "Camp Pendleton",
         "AdminUnitUrl": null,
         "County": "San Diego",
@@ -77,8 +77,8 @@
     {
         "Name": "Creek Fire",
         "Final": false,
-        "Updated": "2021-06-09T21:47:17-07:00",
-        "Started": "2021-06-09T20:00:00",
+        "Updated": "2021-06-09T21:47:17Z",
+        "Started": "2021-06-09T20:00:00Z",
         "AdminUnit": "CAL FIRE Sonoma-Lake-Napa",
         "AdminUnitUrl": null,
         "County": "Yolo",
@@ -97,6 +97,6 @@
         "StartedDateOnly": "2021-06-09",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     }
 ]
