@@ -23,5 +23,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Flats Fire",
+        "Final": false,
+        "Updated": "2021-06-13T14:16:38Z",
+        "Started": "2021-06-13T11:12:13Z",
+        "AdminUnit": "CAL FIRE Riverside",
+        "AdminUnitUrl": null,
+        "County": "Riverside",
+        "Location": "Pinion Flats Transfer Station and Elks Trail Rd, near Mountain Center",
+        "AcresBurned": 50.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "United States Forest Service ",
+        "Longitude": -116.4518615,
+        "Latitude": 33.5812044,
+        "Type": "Wildfire",
+        "UniqueId": "ddcef5cf-9417-4c41-b64b-910e096522fc",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/13/flats-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-13",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
