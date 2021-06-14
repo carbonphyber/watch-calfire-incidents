@@ -64698,5 +64698,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Silicon Fire",
+        "Final": false,
+        "Updated": "2021-06-14T13:43:17Z",
+        "Started": "2021-06-14T11:40:00Z",
+        "AdminUnit": "CAL FIRE Santa Clara Unit",
+        "AdminUnitUrl": null,
+        "County": "Santa Clara",
+        "Location": "Silicon Valley Road and Basking Ridge, East San Jose",
+        "AcresBurned": 30.0,
+        "PercentContained": 20.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.76309,
+        "Latitude": 37.24042,
+        "Type": "Wildfire",
+        "UniqueId": "8d9ee304-6918-4f74-b7f1-ec8441020bf9",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/14/silicon-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-14",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
