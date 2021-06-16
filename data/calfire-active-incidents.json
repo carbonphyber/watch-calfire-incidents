@@ -98,5 +98,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Equestrian Fire",
+        "Final": false,
+        "Updated": "2021-06-16T14:09:44Z",
+        "Started": "2021-06-16T14:03:42Z",
+        "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
+        "AdminUnitUrl": null,
+        "County": "El Dorado",
+        "Location": "Equestrian Way and Square Nail Trail, south of Pilot Hill",
+        "AcresBurned": 10.0,
+        "PercentContained": 50.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.01273,
+        "Latitude": 38.79988,
+        "Type": "Wildfire",
+        "UniqueId": "26ec9c89-912e-4c23-a6c9-04b5dcb31970",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/16/equestrian-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-16",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
