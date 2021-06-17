@@ -2,9 +2,9 @@
     {
         "Name": "Flats Fire",
         "Final": false,
-        "Updated": "2021-06-15T19:04:10Z",
+        "Updated": "2021-06-16T18:25:27Z",
         "Started": "2021-06-13T11:12:13Z",
-        "AdminUnit": "Unified Command: CAL FIRE/ Riverside County Fire Department and San Bernardino National Forest",
+        "AdminUnit": "San Bernardino National Forest",
         "AdminUnitUrl": null,
         "County": "Riverside",
         "Location": "Pinyon Flats Transfer Station and Elks Trail Rd, near Mountain Center",
@@ -21,7 +21,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-06-13",
         "IsActive": true,
-        "CalFireIncident": true,
+        "CalFireIncident": false,
         "NotificationDesired": false
     },
     {
@@ -52,14 +52,14 @@
     {
         "Name": "Rock Fire",
         "Final": false,
-        "Updated": "2021-06-16T06:48:44Z",
+        "Updated": "2021-06-16T18:26:17Z",
         "Started": "2021-06-15T17:14:55Z",
         "AdminUnit": "CAL FIRE Shasta Trinity Unit",
         "AdminUnitUrl": null,
         "County": "Shasta",
         "Location": "Benson Dr and Rock Creek Rd, East of Whiskeytown",
-        "AcresBurned": 100.0,
-        "PercentContained": 45.0,
+        "AcresBurned": 105.0,
+        "PercentContained": 55.0,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -122.49164,
