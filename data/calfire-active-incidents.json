@@ -77,14 +77,14 @@
     {
         "Name": "Pomo Fire",
         "Final": false,
-        "Updated": "2021-06-17T18:55:39Z",
+        "Updated": "2021-06-17T20:20:57Z",
         "Started": "2021-06-17T16:45:06Z",
-        "AdminUnit": "Unified Command: CAL FIRE/ Sonoma-Lake-Napa Unit and North Shore Fire Protection District",
+        "AdminUnit": "North Shore Fire Protection District",
         "AdminUnitUrl": null,
         "County": "Lake",
         "Location": "Pomo Road Cross and Hwy 20, Upper Lake",
-        "AcresBurned": 0.0,
-        "PercentContained": 25.0,
+        "AcresBurned": 50.0,
+        "PercentContained": 42.0,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -122.916,
@@ -96,7 +96,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-06-17",
         "IsActive": true,
-        "CalFireIncident": true,
+        "CalFireIncident": false,
         "NotificationDesired": false
     }
 ]
