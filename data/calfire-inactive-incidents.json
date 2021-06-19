@@ -64998,5 +64998,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Crane Fire",
+        "Final": false,
+        "Updated": "2021-06-18T23:40:31Z",
+        "Started": "2021-06-18T18:35:00Z",
+        "AdminUnit": "Kern County Fire Department",
+        "AdminUnitUrl": null,
+        "County": "Kern",
+        "Location": "Lebec Service Road and Crane Canyon Road, Northeast of Lebec",
+        "AcresBurned": 50.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -118.86258,
+        "Latitude": 34.83498,
+        "Type": "",
+        "UniqueId": "f5d44748-ed74-4660-ab1a-b94f483ab5df",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/18/crane-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-18",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
