@@ -65023,5 +65023,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Overland Fire",
+        "Final": false,
+        "Updated": "2021-06-19T11:10:07Z",
+        "Started": "2021-06-19T08:00:00Z",
+        "AdminUnit": "CAL FIRE San Diego Unit",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Canebrake Canyon Road  and Great Southern Overland Stage Route , East of Mount Laguna",
+        "AcresBurned": 100.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.233056,
+        "Latitude": 32.903917,
+        "Type": "",
+        "UniqueId": "8992a229-a245-431d-9a61-11f8d545d93b",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/19/overland-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-19",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
