@@ -65323,5 +65323,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Paseo Fire",
+        "Final": false,
+        "Updated": "2021-06-25T15:34:47Z",
+        "Started": "2021-06-25T14:23:00Z",
+        "AdminUnit": "CAL FIRE Santa Clara",
+        "AdminUnitUrl": null,
+        "County": "Santa Clara",
+        "Location": "Paseo Robles Ave and Paseo Vista Ave, East of Morgan Hill",
+        "AcresBurned": 30.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.584194,
+        "Latitude": 37.118582,
+        "Type": "Wildfire",
+        "UniqueId": "909624c0-d36c-4b9a-8f34-a9e02961b883",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/25/paseo-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-25",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
