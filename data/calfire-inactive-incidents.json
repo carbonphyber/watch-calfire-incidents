@@ -65348,5 +65348,30 @@
         "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Steins Fire",
+        "Final": false,
+        "Updated": "2021-06-26T14:36:10Z",
+        "Started": "2021-06-26T13:05:41Z",
+        "AdminUnit": "CAL FIRE/ Amador-El Dorado Unit",
+        "AdminUnitUrl": null,
+        "County": "El Dorado",
+        "Location": "Kingvale Rd and Wildcrest Rd",
+        "AcresBurned": 15.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.876096,
+        "Latitude": 38.659971,
+        "Type": "Wildfire",
+        "UniqueId": "b3136d0f-6ef3-46ea-9342-6d6b0d82d274",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/26/steins-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-26",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
