@@ -248,5 +248,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Shell Fire",
+        "Final": false,
+        "Updated": "2021-06-27T15:38:31Z",
+        "Started": "2021-06-27T13:07:06Z",
+        "AdminUnit": "Lean Agency: Kern County Fire",
+        "AdminUnitUrl": null,
+        "County": "Kern",
+        "Location": "Interstate 5 and Grapevine Rd",
+        "AcresBurned": 250.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -118.891,
+        "Latitude": 34.919,
+        "Type": "Wildfire",
+        "UniqueId": "62f7b39d-1213-47c2-8118-88eb98908af7",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/27/shell-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-27",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
