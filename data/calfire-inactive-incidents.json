@@ -65523,5 +65523,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Stowe Fire",
+        "Final": false,
+        "Updated": "2021-06-28T16:48:08Z",
+        "Started": "2021-06-28T16:48:08Z",
+        "AdminUnit": "CAL FIRE/ Riverside County Fire Department",
+        "AdminUnitUrl": null,
+        "County": "Riverside",
+        "Location": "California Avenue and Lyn Avenue",
+        "AcresBurned": 105.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "CAL FIRE/ Riverside County Fire Department",
+        "Longitude": -117.050236,
+        "Latitude": 33.740058,
+        "Type": "Wildfire",
+        "UniqueId": "2aaf4aba-1155-4f25-a5a6-fd6ee8d66f8c",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/28/stowe-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-28",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
