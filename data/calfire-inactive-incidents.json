@@ -65473,5 +65473,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Vulcan Fire",
+        "Final": false,
+        "Updated": "2021-06-27T19:41:27Z",
+        "Started": "2021-06-27T17:05:33Z",
+        "AdminUnit": "CAL FIRE/ Fresno-Kings Unit, Fresno City",
+        "AdminUnitUrl": null,
+        "County": "Fresno",
+        "Location": "Friant Rd and Willow Rd",
+        "AcresBurned": 125.0,
+        "PercentContained": 20.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -119.735,
+        "Latitude": 36.932,
+        "Type": "Wildfire",
+        "UniqueId": "4376d68e-4093-4d4c-aa6f-e0df6d50e9fb",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/27/vulcan-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-27",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
