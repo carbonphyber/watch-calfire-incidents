@@ -102,14 +102,14 @@
     {
         "Name": "Lava Fire",
         "Final": false,
-        "Updated": "2021-06-28T09:19:34Z",
+        "Updated": "2021-06-29T07:42:53Z",
         "Started": "2021-06-24T20:35:24Z",
-        "AdminUnit": "Shasta-Trinity National Forest",
+        "AdminUnit": "Unified Command: CAL FIRE Siskiyou Unit and Shasta-Trinity National Forest",
         "AdminUnitUrl": null,
         "County": "Siskiyou",
         "Location": "Hotlum Rd and Lumm Rd",
-        "AcresBurned": null,
-        "PercentContained": null,
+        "AcresBurned": 13330.0,
+        "PercentContained": 20.0,
         "ControlStatement": null,
         "AgencyNames": "Shasta-Trinity National Forest ",
         "Longitude": -122.329,
@@ -121,7 +121,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-06-24",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     },
     {
