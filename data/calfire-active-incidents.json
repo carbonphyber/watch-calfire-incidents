@@ -273,5 +273,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Salt Fire",
+        "Final": false,
+        "Updated": "2021-06-30T14:55:56Z",
+        "Started": "2021-06-30T14:55:56Z",
+        "AdminUnit": "Shasta-Trinity National Forest",
+        "AdminUnitUrl": null,
+        "County": "Shasta",
+        "Location": "Gilman Rd and Coal Creek Rd, north of Shasta Lake City",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Shasta-Trinity National Forest",
+        "Longitude": -122.335005,
+        "Latitude": 40.848757,
+        "Type": "Wildfire",
+        "UniqueId": "b07cd929-6dde-4ad9-b845-a2fdc5ba3f97",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/30/salt-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
