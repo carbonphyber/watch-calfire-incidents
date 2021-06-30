@@ -65623,5 +65623,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Blue Fire",
+        "Final": false,
+        "Updated": "2021-06-30T08:10:50Z",
+        "Started": "2021-06-30T16:22:00Z",
+        "AdminUnit": "Sierra National Forest",
+        "AdminUnitUrl": null,
+        "County": "Fresno",
+        "Location": "Big Creek Road and Soaproot Saddle Road, South of Shaver",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Sierra National Forest",
+        "Longitude": -119.25484409482164,
+        "Latitude": 37.02865766813302,
+        "Type": "Wildfire",
+        "UniqueId": "ac0c072d-d926-49f2-8a3d-c18ea5d32010",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/30/blue-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
