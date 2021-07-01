@@ -65698,5 +65698,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "R-1 Fire",
+        "Final": false,
+        "Updated": "2021-06-30T21:04:00Z",
+        "Started": "2021-06-30T20:49:00Z",
+        "AdminUnit": "Bureau of Land Management - California",
+        "AdminUnitUrl": null,
+        "County": "Lassen",
+        "Location": "Spanish Springs Peak, southeast of Ravendale in Lassen County.",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Bureau of Land Management - California",
+        "Longitude": -120.24080351821515,
+        "Latitude": 40.74682369607691,
+        "Type": "Wildfire",
+        "UniqueId": "187580ca-f6fc-4cbb-bf50-a0e5daa43626",
+        "Url": "https://www.fire.ca.gov/incidents/2021/6/30/r-1-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-06-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
