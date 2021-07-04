@@ -65777,7 +65777,7 @@
     {
         "Name": "Beckwourth Complex",
         "Final": false,
-        "Updated": "2021-07-04T09:26:50Z",
+        "Updated": "2021-07-04T10:35:00Z",
         "Started": "2021-07-04T09:26:06Z",
         "AdminUnit": "Plumas National Forest",
         "AdminUnitUrl": null,
@@ -65785,7 +65785,7 @@
         "Location": "northeast of Beckwourth",
         "AcresBurned": null,
         "PercentContained": null,
-        "ControlStatement": null,
+        "ControlStatement": "Dotta and Sugar Incidents have been combined into the Beckwourth Complex\n\u2022    Dotta 670 acres, 15% contained\n\u2022    Sugar 471 acres, 24% contained",
         "AgencyNames": "",
         "Longitude": -120.3415,
         "Latitude": 39.83203,
