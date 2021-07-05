@@ -65848,5 +65848,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Juniper Fire",
+        "Final": false,
+        "Updated": "2021-07-05T16:34:58Z",
+        "Started": "2021-07-05T16:34:58Z",
+        "AdminUnit": "Modoc National Forest",
+        "AdminUnitUrl": null,
+        "County": "Modoc",
+        "Location": "South Mountain Reservoir and South Mountain Spur, west of Goose Lake",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.638464,
+        "Latitude": 41.80728,
+        "Type": "Wildfire",
+        "UniqueId": "5eaaed19-b38a-49f1-84f8-78d9f8c76656",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/5/juniper-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-05",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
