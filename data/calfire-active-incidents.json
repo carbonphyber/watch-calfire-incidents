@@ -348,5 +348,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Basalt Fire",
+        "Final": false,
+        "Updated": "2021-07-09T16:02:15Z",
+        "Started": "2021-07-09T13:36:01Z",
+        "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+        "AdminUnitUrl": null,
+        "County": "Merced",
+        "Location": "Basalt Road, near Basalt Campground, Area of Basalt",
+        "AcresBurned": 350.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.05758,
+        "Latitude": 37.06047,
+        "Type": "Fire",
+        "UniqueId": "82af1b59-858c-43c4-9f4f-842605e6c0c1",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/9/basalt-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-09",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
