@@ -373,5 +373,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Road Fire",
+        "Final": false,
+        "Updated": "2021-07-10T13:43:00Z",
+        "Started": "2021-07-10T13:38:19Z",
+        "AdminUnit": "Cleveland National Forest",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Japatul Valley Road and I-8 in San Diego County",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.6253,
+        "Latitude": 32.82731,
+        "Type": "Wildfire",
+        "UniqueId": "f4c4de41-d8d4-4c66-9d9f-4f1ba285bf59",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/10/road-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-10",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
