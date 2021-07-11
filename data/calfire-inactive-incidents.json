@@ -66023,5 +66023,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "River Fire",
+        "Final": false,
+        "Updated": "2021-07-11T15:26:54Z",
+        "Started": "2021-07-11T14:10:26Z",
+        "AdminUnit": "CAL FIRE Madera-Mariposa-Merced",
+        "AdminUnitUrl": null,
+        "County": "Mariposa",
+        "Location": "Oak Grove Road and Oak Grove School Road in Mariposa County",
+        "AcresBurned": 50.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -119.869785,
+        "Latitude": 37.350823,
+        "Type": "Wildfire",
+        "UniqueId": "2acb95c8-7a0b-4bfc-9174-6da944037bf2",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/11/river-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-11",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
