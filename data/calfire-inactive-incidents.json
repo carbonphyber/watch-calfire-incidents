@@ -65998,5 +65998,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Bear Fire",
+        "Final": false,
+        "Updated": "2021-07-11T14:37:11Z",
+        "Started": "2021-07-11T13:29:14Z",
+        "AdminUnit": "Kern County Fire",
+        "AdminUnitUrl": null,
+        "County": "Kern",
+        "Location": "Interstate 5 and Bear Trap Road in Kern County.",
+        "AcresBurned": 50.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "Kern County Fire",
+        "Longitude": -118.81448,
+        "Latitude": 34.85178,
+        "Type": "Wildfire",
+        "UniqueId": "4fde57bd-089f-4c24-b224-b60306e1648d",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/11/bear-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-11",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
