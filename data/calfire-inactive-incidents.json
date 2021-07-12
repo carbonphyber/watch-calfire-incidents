@@ -66073,5 +66073,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Dexter Fire",
+        "Final": false,
+        "Updated": "2021-07-12T14:04:02Z",
+        "Started": "2021-07-12T14:04:02Z",
+        "AdminUnit": "Inyo National Forest",
+        "AdminUnitUrl": null,
+        "County": "Mono",
+        "Location": "Wickie Up Rd and Pilot Springs Rd, northeast of Mammoth Lakes",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Inyo National Forest ",
+        "Longitude": -119.00435,
+        "Latitude": 37.34003,
+        "Type": "Wildfire",
+        "UniqueId": "4b66f232-6ab8-4e00-9f8b-957296920ed9",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/12/dexter-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-12",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
