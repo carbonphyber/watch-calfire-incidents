@@ -66027,7 +66027,7 @@
     {
         "Name": "River Fire",
         "Final": false,
-        "Updated": "2021-07-11T22:15:24Z",
+        "Updated": "2021-07-11T22:28:10Z",
         "Started": "2021-07-11T14:10:26Z",
         "AdminUnit": "CAL FIRE Madera-Mariposa-Merced",
         "AdminUnitUrl": null,
@@ -66036,7 +66036,7 @@
         "AcresBurned": 4000.0,
         "PercentContained": 5.0,
         "ControlStatement": null,
-        "AgencyNames": "",
+        "AgencyNames": "Animal Evacuations information: Madera County, Animal Evacuations information: Mariposa County, Red Cross:",
         "Longitude": -119.869785,
         "Latitude": 37.350823,
         "Type": "Wildfire",
