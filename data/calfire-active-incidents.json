@@ -323,5 +323,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Cannon Fire",
+        "Final": false,
+        "Updated": "2021-07-14T15:18:48Z",
+        "Started": "2021-07-14T15:18:48Z",
+        "AdminUnit": "CAL FIRE Tehama-Glen Unit",
+        "AdminUnitUrl": null,
+        "County": "Tehama",
+        "Location": "Vestal Road and Pope Drive, west of Red Bluff",
+        "AcresBurned": 15.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.64768,
+        "Latitude": 40.1703,
+        "Type": "Wildfire",
+        "UniqueId": "925dcb5b-1885-407d-b441-10765a31ce97",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/14/cannon-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-14",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
