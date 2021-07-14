@@ -302,7 +302,7 @@
     {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-07-14T09:40:44Z",
+        "Updated": "2021-07-14T11:13:22Z",
         "Started": "2021-07-14T07:29:35Z",
         "AdminUnit": "CAL FIRE Butte Unit/Butte County Fire Department",
         "AdminUnitUrl": null,
@@ -311,7 +311,7 @@
         "AcresBurned": 1200.0,
         "PercentContained": 0.0,
         "ControlStatement": null,
-        "AgencyNames": "",
+        "AgencyNames": "Butte County Sheriff Office ",
         "Longitude": -121.4182,
         "Latitude": 39.82862,
         "Type": "Wildfire",
