@@ -66027,7 +66027,7 @@
     {
         "Name": "River Fire",
         "Final": false,
-        "Updated": "2021-07-14T19:11:20Z",
+        "Updated": "2021-07-14T19:50:35Z",
         "Started": "2021-07-11T14:10:26Z",
         "AdminUnit": "CAL FIRE Madera-Mariposa-Merced",
         "AdminUnitUrl": null,
@@ -66036,7 +66036,7 @@
         "AcresBurned": 9500.0,
         "PercentContained": 28.0,
         "ControlStatement": null,
-        "AgencyNames": "Animal Evacuations information: Madera County, Animal Evacuations information: Mariposa County, Red Cross:, Information Line, Media Line",
+        "AgencyNames": "Animal Evacuations information: Madera County, Animal Evacuations information: Mariposa County, Red Cross:, Information Line, Media Line, Cooperating Agencies: CHP, Madera Sheriff, Mariposa Sherrif, Madera Co Roads, Mariposa Co Roads, PG&E, Madera County Fire, Mariposa County Fire, Merced County Fire, CAL OES, USFS, American Red Cross, Central California Animal Disaster Team",
         "Longitude": -119.869785,
         "Latitude": 37.350823,
         "Type": "Wildfire",
