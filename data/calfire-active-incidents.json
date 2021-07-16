@@ -298,30 +298,5 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
-    },
-    {
-        "Name": "Border 13 Fire",
-        "Final": false,
-        "Updated": "2021-07-15T18:54:38Z",
-        "Started": "2021-07-15T16:02:27Z",
-        "AdminUnit": "CAL FIRE/San Diego County Fire",
-        "AdminUnitUrl": null,
-        "County": "San Diego",
-        "Location": "188 and Tecate Mission Rd, Potrero Canyon",
-        "AcresBurned": 30.0,
-        "PercentContained": 50.0,
-        "ControlStatement": null,
-        "AgencyNames": "",
-        "Longitude": -116.634023,
-        "Latitude": 32.578481,
-        "Type": "Wildfire",
-        "UniqueId": "354a2576-907f-43a2-b152-46355e2bf94a",
-        "Url": "https://www.fire.ca.gov/incidents/2021/7/15/border-13-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2021-07-15",
-        "IsActive": true,
-        "CalFireIncident": true,
-        "NotificationDesired": false
     }
 ]
