@@ -227,7 +227,7 @@
     {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-07-15T19:18:26Z",
+        "Updated": "2021-07-15T21:20:59Z",
         "Started": "2021-07-14T07:29:35Z",
         "AdminUnit": "CAL FIRE Butte Unit/Butte County Fire Department",
         "AdminUnitUrl": null,
@@ -236,7 +236,7 @@
         "AcresBurned": 4965.0,
         "PercentContained": 7.0,
         "ControlStatement": null,
-        "AgencyNames": "Butte County Sheriff Office , Cooperating Agencies: United States Forest Service PNF, Butte County Sherriffs Office, PG&E, Union Pacific, CHP, Plumas County Sherriffs.",
+        "AgencyNames": "Butte County Sheriff Office , Cooperating Agencies: United States Forest Service PNF, Butte County Sheriffs Office, PG&E, Union Pacific, CHP, Plumas County Sheriffs.",
         "Longitude": -121.4182,
         "Latitude": 39.82862,
         "Type": "Wildfire",
