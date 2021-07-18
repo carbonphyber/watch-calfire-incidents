@@ -66227,7 +66227,7 @@
     {
         "Name": "Tamarack Fire",
         "Final": false,
-        "Updated": "2021-07-16T20:09:48Z",
+        "Updated": "2021-07-18T09:43:17Z",
         "Started": "2021-07-04T11:57:58Z",
         "AdminUnit": "Humboldt-Toiyabe National Forest",
         "AdminUnitUrl": null,
@@ -66236,7 +66236,7 @@
         "AcresBurned": null,
         "PercentContained": null,
         "ControlStatement": null,
-        "AgencyNames": "",
+        "AgencyNames": "Humboldt-Toiyabe National Forest",
         "Longitude": -119.8591887,
         "Latitude": 38.6280042,
         "Type": "Wildfire",
