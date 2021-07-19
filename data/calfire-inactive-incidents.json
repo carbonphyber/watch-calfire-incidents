@@ -65702,7 +65702,7 @@
     {
         "Name": "R-1 Fire",
         "Final": false,
-        "Updated": "2021-06-30T21:04:00Z",
+        "Updated": "2021-07-19T07:21:45Z",
         "Started": "2021-06-30T20:49:00Z",
         "AdminUnit": "Bureau of Land Management - California",
         "AdminUnitUrl": null,
@@ -65720,7 +65720,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-06-30",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
@@ -65927,7 +65927,7 @@
     {
         "Name": "Coyote Fire",
         "Final": false,
-        "Updated": "2021-07-09T18:31:45Z",
+        "Updated": "2021-07-19T07:24:36Z",
         "Started": "2021-07-09T16:41:27Z",
         "AdminUnit": "Modoc National Forest",
         "AdminUnitUrl": null,
@@ -65952,7 +65952,7 @@
     {
         "Name": "Road Fire",
         "Final": false,
-        "Updated": "2021-07-10T13:43:00Z",
+        "Updated": "2021-07-19T07:24:19Z",
         "Started": "2021-07-10T13:38:19Z",
         "AdminUnit": "Cleveland National Forest",
         "AdminUnitUrl": null,
@@ -66002,7 +66002,7 @@
     {
         "Name": "Bear Fire",
         "Final": false,
-        "Updated": "2021-07-12T08:42:39Z",
+        "Updated": "2021-07-19T07:23:02Z",
         "Started": "2021-07-11T13:29:14Z",
         "AdminUnit": "Kern County Fire",
         "AdminUnitUrl": null,
@@ -66102,13 +66102,13 @@
     {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-07-18T20:07:47Z",
+        "Updated": "2021-07-19T07:36:41Z",
         "Started": "2021-07-14T07:29:35Z",
         "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department and Lassen National Forest",
         "AdminUnitUrl": null,
         "County": "Butte",
         "Location": "Above the Cresta Dam, Feather River Canyon",
-        "AcresBurned": 18702.0,
+        "AcresBurned": 30074.0,
         "PercentContained": 15.0,
         "ControlStatement": null,
         "AgencyNames": "Butte County Sheriff Office , Cooperating Agencies: Plumas National Forest, Lassen National Forest, Butte County Sheriff's Office, Plumas County Sheriff, CHP, PG&E, Union Pacific Railroad ",
