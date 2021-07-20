@@ -66323,5 +66323,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Peak Fire",
+        "Final": false,
+        "Updated": "2021-07-20T14:26:39Z",
+        "Started": "2021-07-20T11:40:00Z",
+        "AdminUnit": "Bureau Land Management",
+        "AdminUnitUrl": null,
+        "County": "Kern",
+        "Location": "Walker Basin Road and Piute Mountain Road, South of Lake Isabella",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Bureau of Land Management Nothern California District ",
+        "Longitude": -11846461.0,
+        "Latitude": 35.41153,
+        "Type": "",
+        "UniqueId": "fc8bd27a-c3c8-405d-b13a-d9a1396206e3",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/20/peak-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-20",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
