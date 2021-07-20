@@ -66298,5 +66298,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Quail Fire",
+        "Final": false,
+        "Updated": "2021-07-20T13:53:44Z",
+        "Started": "2021-07-20T13:52:41Z",
+        "AdminUnit": "CAL FIRE/Riverside County Fire Department",
+        "AdminUnitUrl": null,
+        "County": "Riverside",
+        "Location": "Gilman Springs Rd and Eden Hot Springs Rd, East of Moreno Valley",
+        "AcresBurned": 50.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "CAL FIRE/Riverside County Fire Department ",
+        "Longitude": -117.070814,
+        "Latitude": 33.889516,
+        "Type": "Wildfire",
+        "UniqueId": "3989e25c-3790-44d5-bf6d-50ca3fd04d95",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/20/quail-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-20",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
