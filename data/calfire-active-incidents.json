@@ -277,7 +277,7 @@
     {
         "Name": "Peak Fire",
         "Final": false,
-        "Updated": "2021-07-20T14:43:15Z",
+        "Updated": "2021-07-21T10:06:15Z",
         "Started": "2021-07-20T11:40:00Z",
         "AdminUnit": "Bureau Land Management",
         "AdminUnitUrl": null,
@@ -287,7 +287,7 @@
         "PercentContained": null,
         "ControlStatement": null,
         "AgencyNames": "Bureau of Land Management Nothern California District ",
-        "Longitude": -11846461.0,
+        "Longitude": -118.46461,
         "Latitude": 35.41153,
         "Type": "",
         "UniqueId": "fc8bd27a-c3c8-405d-b13a-d9a1396206e3",
