@@ -3052,7 +3052,7 @@
     {
         "Name": "Peak Fire",
         "Final": false,
-        "Updated": "2021-07-21T10:06:15Z",
+        "Updated": "2021-07-22T08:13:01Z",
         "Started": "2021-07-20T11:40:00Z",
         "AdminUnit": "Bureau Land Management",
         "AdminUnitUrl": null,
@@ -3064,7 +3064,7 @@
         "AgencyNames": "Bureau of Land Management Nothern California District ",
         "Longitude": -118.46461,
         "Latitude": 35.41153,
-        "Type": "",
+        "Type": "Wildfire",
         "UniqueId": "fc8bd27a-c3c8-405d-b13a-d9a1396206e3",
         "Url": "https://www.fire.ca.gov/incidents/2021/7/20/peak-fire/",
         "ExtinguishedDate": "",
