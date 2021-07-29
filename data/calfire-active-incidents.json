@@ -223,5 +223,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Pinnacles Fire",
+        "Final": false,
+        "Updated": "2021-07-28T19:03:32Z",
+        "Started": "2021-07-28T17:40:00Z",
+        "AdminUnit": "Unified Command: CAL FIRE San Benito-Monterey Unit and Pinnacles National Park Service",
+        "AdminUnitUrl": null,
+        "County": "Monterey",
+        "Location": "Hwy 146 Pinnacles West , East of Soledad",
+        "AcresBurned": 100.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.224797,
+        "Latitude": 36.476664,
+        "Type": "Wildfire",
+        "UniqueId": "200d07c4-0457-4421-875b-4140d482a03e",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/28/pinnacles-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-28",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
