@@ -3102,14 +3102,14 @@
     {
         "Name": "Park Fire",
         "Final": false,
-        "Updated": "2021-07-27T18:52:23Z",
+        "Updated": "2021-07-29T15:40:14Z",
         "Started": "2021-07-26T00:00:00Z",
-        "AdminUnit": "Unified Command: CAL FIRE Tulare Unit and Sequoia National Forest",
+        "AdminUnit": "Unified Command: Sequoia National Forest",
         "AdminUnitUrl": null,
         "County": "Tulare",
         "Location": "Balch Park Rd and Bear Creek Dr, northeast of Springville",
-        "AcresBurned": 152.0,
-        "PercentContained": 25.0,
+        "AcresBurned": null,
+        "PercentContained": null,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -118.722167,
@@ -3121,7 +3121,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-07-26",
         "IsActive": true,
-        "CalFireIncident": true,
+        "CalFireIncident": false,
         "NotificationDesired": false
     },
     {
