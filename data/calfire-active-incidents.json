@@ -248,5 +248,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Evans Fire",
+        "Final": false,
+        "Updated": "2021-07-30T07:38:28Z",
+        "Started": "2021-07-29T19:14:42Z",
+        "AdminUnit": "Plumas National Forest",
+        "AdminUnitUrl": null,
+        "County": "Plumas",
+        "Location": "Evans Peak and Cooks Creek, northeast of Greenville in Plumas County.",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Plumas National Forest",
+        "Longitude": -120.8468224,
+        "Latitude": 40.183504,
+        "Type": "Wildfire",
+        "UniqueId": "ef12ac40-d6fb-4871-97ec-c06d0ce51efd",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/29/evans-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-29",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
