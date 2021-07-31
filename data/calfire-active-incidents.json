@@ -248,5 +248,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Robie Fire",
+        "Final": false,
+        "Updated": "2021-07-30T20:20:18Z",
+        "Started": "2021-07-30T20:13:58Z",
+        "AdminUnit": "CAL FIRE Tuolumne-Calaveras",
+        "AdminUnitUrl": null,
+        "County": "Calaveras",
+        "Location": "Milton Road and Main Street, South of Valley Springs in Calaveras County.",
+        "AcresBurned": 120.0,
+        "PercentContained": 40.0,
+        "ControlStatement": null,
+        "AgencyNames": "CAL FIRE Tuolumne-Calaveras ",
+        "Longitude": -120.867498,
+        "Latitude": 38.054116,
+        "Type": "Wildfire",
+        "UniqueId": "47070a62-2ef3-44a9-8b98-a20e0e574f97",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/30/robie-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-30",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
