@@ -3223,5 +3223,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Panther Fire",
+        "Final": false,
+        "Updated": "2021-07-31T07:30:37Z",
+        "Started": "2021-07-30T18:10:05Z",
+        "AdminUnit": "Shasta-Trinity National Forest",
+        "AdminUnitUrl": null,
+        "County": "Trinity",
+        "Location": "Panther Creek and Eagle Rock, West of Big Bar in Trinity County.",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Shasta-Trinity National Forest ",
+        "Longitude": -123.3314956,
+        "Latitude": 40.7298845,
+        "Type": "Wildfire",
+        "UniqueId": "5f605410-7fec-408a-a21e-4ba1615bc578",
+        "Url": "https://www.fire.ca.gov/incidents/2021/7/30/panther-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-07-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
