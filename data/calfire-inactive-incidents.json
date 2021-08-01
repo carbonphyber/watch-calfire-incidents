@@ -3276,15 +3276,15 @@
     },
     {
         "Name": "Tobin Fire",
-        "Final": false,
-        "Updated": "2021-07-31T19:39:56Z",
+        "Final": true,
+        "Updated": "2021-07-31T22:39:47Z",
         "Started": "2021-07-31T17:10:53Z",
         "AdminUnit": "CAL FIRE San Luis Obispo",
         "AdminUnitUrl": null,
         "County": "San Luis Obispo",
         "Location": "Highway 46 East and Union Road, East of Paso Robles in San Luis Obispo County.",
         "AcresBurned": 75.0,
-        "PercentContained": 50.0,
+        "PercentContained": 100.0,
         "ControlStatement": null,
         "AgencyNames": "CAL FIRE San Luis Obispo",
         "Longitude": -120.560856,
@@ -3295,7 +3295,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-07-31",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": false
     }
