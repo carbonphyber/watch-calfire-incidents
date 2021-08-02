@@ -298,5 +298,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Antelope Fire",
+        "Final": false,
+        "Updated": "2021-08-01T19:04:29Z",
+        "Started": "2021-08-01T11:28:25Z",
+        "AdminUnit": "Klamath National Forest",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Antelope Creek and Forest Road 41N28, south of Tennant",
+        "AcresBurned": 85.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.9154934,
+        "Latitude": 41.5289901,
+        "Type": "Wildfire",
+        "UniqueId": "dc3380c7-ff32-4062-a4e8-be99b655f2c6",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/1/antelope-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-01",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
