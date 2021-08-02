@@ -3323,5 +3323,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Hiding Fire",
+        "Final": false,
+        "Updated": "2021-08-01T20:48:08Z",
+        "Started": "2021-08-01T19:46:00Z",
+        "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
+        "AdminUnitUrl": null,
+        "County": "Shasta",
+        "Location": "Dale Ln and Panther Rd, south of Cloverdale",
+        "AcresBurned": 30.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.482826,
+        "Latitude": 40.466364,
+        "Type": "Wildfire",
+        "UniqueId": "61f3264e-f89f-42cc-820d-0e0a5ee29cdd",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/1/hiding-fire/",
+        "ExtinguishedDate": "2021-08-01T20:47:13Z",
+        "ExtinguishedDateOnly": "2021-08-01",
+        "StartedDateOnly": "2021-08-01",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
