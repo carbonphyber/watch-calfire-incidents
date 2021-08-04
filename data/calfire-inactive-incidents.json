@@ -3423,5 +3423,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "House Fire",
+        "Final": false,
+        "Updated": "2021-08-04T14:12:27Z",
+        "Started": "2021-08-04T12:33:00Z",
+        "AdminUnit": "CAL FIRE Shasta Trinity Unit",
+        "AdminUnitUrl": null,
+        "County": "Shasta",
+        "Location": "Highway 299 and Tollhouse Road, West of Redding",
+        "AcresBurned": 20.0,
+        "PercentContained": 15.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.506112,
+        "Latitude": 40.604986,
+        "Type": "Wildfire",
+        "UniqueId": "1704f47a-b2bc-43fc-8c49-e62ffaf6021e",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/4/house-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-04",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
