@@ -448,5 +448,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "River Fire",
+        "Final": false,
+        "Updated": "2021-08-04T15:39:04Z",
+        "Started": "2021-08-04T14:09:00Z",
+        "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
+        "AdminUnitUrl": null,
+        "County": "Placer, Nevada",
+        "Location": "Milk Ranch Road and Bear River Campground Road, north of Applegate",
+        "AcresBurned": 100.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.01468,
+        "Latitude": 39.08805,
+        "Type": "Wildfire",
+        "UniqueId": "178aba5f-4c67-4830-891d-b8fec84706da",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/4/river-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-04",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
