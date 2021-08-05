@@ -77,7 +77,7 @@
     {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-08-04T11:01:44Z",
+        "Updated": "2021-08-04T18:42:40Z",
         "Started": "2021-07-14T00:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department and Lassen National Forest",
         "AdminUnitUrl": null,
@@ -427,7 +427,7 @@
     {
         "Name": "River Fire",
         "Final": false,
-        "Updated": "2021-08-04T17:35:40Z",
+        "Updated": "2021-08-04T18:53:22Z",
         "Started": "2021-08-04T00:00:00Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
         "AdminUnitUrl": null,
@@ -436,7 +436,7 @@
         "AcresBurned": 1000.0,
         "PercentContained": 0.0,
         "ControlStatement": null,
-        "AgencyNames": "",
+        "AgencyNames": "CAL FIRE Nevada-Yuba-Placer Unit, Nevada County OES, Placer County Sheriff",
         "Longitude": -121.01468,
         "Latitude": 39.08805,
         "Type": "Wildfire",
