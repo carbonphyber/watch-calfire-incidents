@@ -3427,7 +3427,7 @@
     {
         "Name": "River Fire",
         "Final": false,
-        "Updated": "2021-08-05T10:45:27Z",
+        "Updated": "2021-08-05T13:17:44Z",
         "Started": "2021-08-04T00:00:00Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
         "AdminUnitUrl": null,
@@ -3436,7 +3436,7 @@
         "AcresBurned": 2400.0,
         "PercentContained": 0.0,
         "ControlStatement": null,
-        "AgencyNames": "CAL FIRE Nevada-Yuba-Placer Unit, Nevada County OES, Placer County Sheriff",
+        "AgencyNames": "CAL FIRE Nevada-Yuba-Placer Unit, Nevada County OES, Placer County Sheriff, Placer County Evacuation Map, Nevada County Evacuation Map",
         "Longitude": -121.01468,
         "Latitude": 39.08805,
         "Type": "Wildfire",
