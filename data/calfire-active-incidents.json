@@ -398,5 +398,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Hambone Fire",
+        "Final": false,
+        "Updated": "2021-08-07T06:51:05Z",
+        "Started": "2021-08-06T11:11:37Z",
+        "AdminUnit": "Shasta-Trinity National Forest",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Lave Spur and Hambone Island",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.53946,
+        "Latitude": 41.68499,
+        "Type": "Wildfire",
+        "UniqueId": "2ea37798-e198-4f1c-92c6-81c42beff3de",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/6/hambone-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-06",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
