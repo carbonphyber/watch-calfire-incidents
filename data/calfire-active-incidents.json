@@ -77,11 +77,11 @@
     {
         "Name": "Dixie Fire",
         "Final": false,
-        "Updated": "2021-08-07T19:35:52Z",
+        "Updated": "2021-08-07T20:36:40Z",
         "Started": "2021-07-14T00:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Butte Unit/Butte County Fire Department, Lassen National Forest and National Park Service",
         "AdminUnitUrl": null,
-        "County": "Butte, Plumas",
+        "County": "Butte, Plumas, Tehama, Lassen",
         "Location": "Above the Cresta Dam, Feather River Canyon",
         "AcresBurned": 447723.0,
         "PercentContained": 21.0,
