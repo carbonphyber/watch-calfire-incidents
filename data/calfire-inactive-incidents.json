@@ -3473,5 +3473,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Nelson Fire",
+        "Final": false,
+        "Updated": "2021-08-07T20:19:43Z",
+        "Started": "2021-08-07T18:21:06Z",
+        "AdminUnit": "CAL FIRE/ Shasta-Trinity Unit",
+        "AdminUnitUrl": null,
+        "County": "Shasta",
+        "Location": "Nelson Creek Rd and Summit Lake Rd",
+        "AcresBurned": 15.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.89008,
+        "Latitude": 41.034362,
+        "Type": "Wildfire",
+        "UniqueId": "0249ff45-1a71-4a4f-88a7-6c1fc7a9aa20",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/7/nelson-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-07",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
