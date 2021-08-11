@@ -448,5 +448,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Glen Fire",
+        "Final": false,
+        "Updated": "2021-08-11T16:37:48Z",
+        "Started": "2021-08-11T16:37:48Z",
+        "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
+        "AdminUnitUrl": null,
+        "County": "Yuba",
+        "Location": "Willow Glen Rd and Meadow Ln , northwest of Dobbins",
+        "AcresBurned": 75.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.30845,
+        "Latitude": 39.403918,
+        "Type": "Wildfire",
+        "UniqueId": "a26becf4-249f-451e-b8a3-e55032e6df61",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/11/glen-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-11",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
