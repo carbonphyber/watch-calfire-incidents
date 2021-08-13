@@ -3548,5 +3548,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Middle Fire",
+        "Final": false,
+        "Updated": "2021-08-13T13:35:01Z",
+        "Started": "2021-08-13T12:07:38Z",
+        "AdminUnit": "CAL FIRE Sonoma Lake Napa Unit",
+        "AdminUnitUrl": null,
+        "County": "Sonoma",
+        "Location": "Middle Two Rock Road and Succetti Road, west of Petaluma in Sonoma County.",
+        "AcresBurned": 20.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "CAL FIRE Sonoma Lake Napa Unit",
+        "Longitude": -122.727542,
+        "Latitude": 38.250596,
+        "Type": "Wildfire",
+        "UniqueId": "262f815e-e1b4-42d8-8889-6bb4638703e4",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/13/middle-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-13",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
