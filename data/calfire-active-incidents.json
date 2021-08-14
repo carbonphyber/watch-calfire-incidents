@@ -448,5 +448,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Bell Fire",
+        "Final": false,
+        "Updated": "2021-08-14T15:22:26Z",
+        "Started": "2021-08-14T13:44:00Z",
+        "AdminUnit": "CAL FIRE Mendocino Unit",
+        "AdminUnitUrl": null,
+        "County": "Mendocino",
+        "Location": "Bell Springs Road and Foster Creek Road, 5 miles east of Leggett",
+        "AcresBurned": 15.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -123.637032,
+        "Latitude": 39.834099,
+        "Type": "Wildfire",
+        "UniqueId": "3657f103-fe9f-4bfc-a09e-9aa291301266",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/14/bell-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-14",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
