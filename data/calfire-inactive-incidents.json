@@ -3573,5 +3573,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Coyote Fire",
+        "Final": false,
+        "Updated": "2021-08-13T18:12:39Z",
+        "Started": "2021-08-13T18:12:39Z",
+        "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
+        "AdminUnitUrl": null,
+        "County": "Lake",
+        "Location": "State Highway 29 and Spruce Grove Road, Hidden Valley Lake in Lake County",
+        "AcresBurned": 15.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.581257,
+        "Latitude": 38.826123,
+        "Type": "Wildfire",
+        "UniqueId": "e8842a17-4f53-4803-9350-838ec34e66e9",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/13/coyote-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-13",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
