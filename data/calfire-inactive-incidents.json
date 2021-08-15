@@ -3623,5 +3623,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Caldor Fire",
+        "Final": false,
+        "Updated": "2021-08-15T08:16:04Z",
+        "Started": "2021-08-14T18:54:39Z",
+        "AdminUnit": "El Dorado National Forest",
+        "AdminUnitUrl": null,
+        "County": "El Dorado",
+        "Location": "Little Mountain",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.537833,
+        "Latitude": 38.586,
+        "Type": "Wildfire",
+        "UniqueId": "a21c4d1f-87ed-4db1-85ea-eae41c90a0ac",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/14/caldor-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-14",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
