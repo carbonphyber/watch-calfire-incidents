@@ -3648,5 +3648,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Walkers Fire",
+        "Final": false,
+        "Updated": "2021-08-16T16:05:54Z",
+        "Started": "2021-08-16T16:05:54Z",
+        "AdminUnit": "Sequoia National Forest",
+        "AdminUnitUrl": null,
+        "County": "Tulare",
+        "Location": "North of Alpine Creek, northeast of Springville",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "Sequoia National Forest ",
+        "Longitude": -118.526382,
+        "Latitude": 36.178174,
+        "Type": "Wildfire",
+        "UniqueId": "2eae3252-74cd-4e96-b25a-20ed828395e2",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/16/walkers-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-16",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
