@@ -3327,14 +3327,14 @@
     {
         "Name": "Monument Fire",
         "Final": false,
-        "Updated": "2021-08-17T20:47:45Z",
+        "Updated": "2021-08-18T08:41:49Z",
         "Started": "2021-07-30T12:28:24Z",
-        "AdminUnit": "Shasta Trinity National Forest",
+        "AdminUnit": "Unified Command: CAL FIRE and Shasta Trinity National Forest",
         "AdminUnitUrl": null,
         "County": "Trinity",
         "Location": "Del Loma, CA near Monument Peak",
-        "AcresBurned": null,
-        "PercentContained": null,
+        "AcresBurned": 128613.0,
+        "PercentContained": 10.0,
         "ControlStatement": null,
         "AgencyNames": "Shasta Trinity National Forest",
         "Longitude": -123.337,
@@ -3346,7 +3346,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-07-30",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     },
     {
