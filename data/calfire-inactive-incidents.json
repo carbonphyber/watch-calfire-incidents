@@ -3202,7 +3202,7 @@
     {
         "Name": "Robie Fire",
         "Final": true,
-        "Updated": "2021-08-01T17:40:22Z",
+        "Updated": "2021-08-17T21:04:40Z",
         "Started": "2021-07-30T00:00:00Z",
         "AdminUnit": "CAL FIRE Tuolumne-Calaveras",
         "AdminUnitUrl": null,
@@ -3220,7 +3220,7 @@
         "ExtinguishedDate": "2021-08-01T17:39:59Z",
         "ExtinguishedDateOnly": "2021-08-01",
         "StartedDateOnly": "2021-07-30",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
