@@ -152,7 +152,7 @@
     {
         "Name": "Monument Fire",
         "Final": false,
-        "Updated": "2021-08-18T11:36:37Z",
+        "Updated": "2021-08-18T21:15:59Z",
         "Started": "2021-07-30T00:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE and Shasta Trinity National Forest",
         "AdminUnitUrl": null,
@@ -302,16 +302,16 @@
     {
         "Name": "Cache Fire",
         "Final": false,
-        "Updated": "2021-08-18T14:58:01Z",
+        "Updated": "2021-08-18T21:26:43Z",
         "Started": "2021-08-18T00:00:00Z",
         "AdminUnit": "Lake County Fire Protection District",
         "AdminUnitUrl": null,
         "County": "Lake",
         "Location": "Dam Rd and Wilkinson Ave, Clearlake",
-        "AcresBurned": null,
-        "PercentContained": null,
+        "AcresBurned": 80.0,
+        "PercentContained": 20.0,
         "ControlStatement": null,
-        "AgencyNames": "Lake County Fire Protection District",
+        "AgencyNames": "Lake County Fire Protection District, CALFIRE Sonoma Lake Napa Unit",
         "Longitude": -122.601395,
         "Latitude": 38.928133,
         "Type": "Wildfire",
@@ -321,7 +321,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-08-18",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     },
     {
