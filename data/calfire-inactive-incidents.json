@@ -3702,7 +3702,7 @@
     {
         "Name": "French Fire",
         "Final": false,
-        "Updated": "2021-08-19T12:27:38Z",
+        "Updated": "2021-08-20T07:00:31Z",
         "Started": "2021-08-18T00:00:00Z",
         "AdminUnit": "Kern County Fire",
         "AdminUnitUrl": null,
@@ -3711,7 +3711,7 @@
         "AcresBurned": 3223.0,
         "PercentContained": 0.0,
         "ControlStatement": null,
-        "AgencyNames": "Kern County Fire , Sequoia National Forest",
+        "AgencyNames": "Kern County Fire , Sequoia National Forest, Bureau of Land Management",
         "Longitude": -118.501515,
         "Latitude": 35.674926,
         "Type": "Wildfire",
