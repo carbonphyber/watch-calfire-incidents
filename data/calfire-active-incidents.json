@@ -252,14 +252,14 @@
     {
         "Name": "Cache Fire",
         "Final": false,
-        "Updated": "2021-08-20T20:11:53Z",
+        "Updated": "2021-08-21T15:17:44Z",
         "Started": "2021-08-18T00:00:00Z",
         "AdminUnit": "Lake County Fire Protection District",
         "AdminUnitUrl": null,
         "County": "Lake",
         "Location": "Dam Rd and Wilkinson Ave, Clearlake",
-        "AcresBurned": 83.0,
-        "PercentContained": 45.0,
+        "AcresBurned": null,
+        "PercentContained": null,
         "ControlStatement": null,
         "AgencyNames": "Lake County Fire Protection District, Lake County Sheriff\u2019s Office ",
         "Longitude": -122.601395,
@@ -271,7 +271,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2021-08-18",
         "IsActive": true,
-        "CalFireIncident": true,
+        "CalFireIncident": false,
         "NotificationDesired": false
     },
     {
