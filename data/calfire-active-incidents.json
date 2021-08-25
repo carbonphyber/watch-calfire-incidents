@@ -323,5 +323,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Rock Fire",
+        "Final": false,
+        "Updated": "2021-08-24T17:23:08Z",
+        "Started": "2021-08-24T17:14:36Z",
+        "AdminUnit": "CAL FIRE/Riverside County Fire Department",
+        "AdminUnitUrl": null,
+        "County": "Riverside",
+        "Location": "Gulley View Rd and Rock Canyon Rd, Anza",
+        "AcresBurned": 75.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "CAL FIRE/Riverside County Fire Department",
+        "Longitude": -116.659688,
+        "Latitude": 33.474823,
+        "Type": "Wildfire",
+        "UniqueId": "46498648-eff1-492f-b88f-1826ecd224a6",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/24/rock-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-24",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
