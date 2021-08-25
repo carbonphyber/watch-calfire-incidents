@@ -348,5 +348,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Mule Fire",
+        "Final": false,
+        "Updated": "2021-08-25T15:22:10Z",
+        "Started": "2021-08-25T13:54:00Z",
+        "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
+        "AdminUnitUrl": null,
+        "County": "Shasta",
+        "Location": "Placer Rd & Muletown Rd, southwest of Redding",
+        "AcresBurned": 15.0,
+        "PercentContained": 30.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.514391,
+        "Latitude": 40.616416,
+        "Type": "Wildfire",
+        "UniqueId": "f19d2b70-1d83-4abc-a173-7b00584e1c49",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/25/mule-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-25",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
