@@ -3873,5 +3873,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Washington Fire",
+        "Final": false,
+        "Updated": "2021-08-26T14:42:55Z",
+        "Started": "2021-08-26T13:19:00Z",
+        "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+        "AdminUnitUrl": null,
+        "County": "Tuolumne",
+        "Location": "Golf Links Road and Highway 108, West of Sonora",
+        "AcresBurned": 35.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.402221,
+        "Latitude": 37.962933,
+        "Type": "Wildfire",
+        "UniqueId": "726eeb97-b91c-4555-a180-be16e599466f",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/26/washington-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-26",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
