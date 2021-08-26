@@ -402,7 +402,7 @@
     {
         "Name": "Westward Fire",
         "Final": false,
-        "Updated": "2021-08-25T17:25:22Z",
+        "Updated": "2021-08-26T07:53:54Z",
         "Started": "2021-08-25T00:00:00Z",
         "AdminUnit": "CAL FIRE Riverside Unit",
         "AdminUnitUrl": null,
@@ -411,7 +411,7 @@
         "AcresBurned": 200.0,
         "PercentContained": 10.0,
         "ControlStatement": null,
-        "AgencyNames": "",
+        "AgencyNames": "Riverside County Westward Fire Fact Sheet",
         "Longitude": -116.877776,
         "Latitude": 33.918089,
         "Type": "Wildfire",
