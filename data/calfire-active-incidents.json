@@ -423,5 +423,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Roadside Fire",
+        "Final": false,
+        "Updated": "2021-08-28T14:32:07Z",
+        "Started": "2021-08-28T11:25:00Z",
+        "AdminUnit": "San Bernardino National Forest & San Bernardino County Fire",
+        "AdminUnitUrl": null,
+        "County": "San Bernardino",
+        "Location": "Cajon Pass near Keenbrook Road and Cajon Blvd.",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "San Bernardino National Forest, San Bernardino County Fire",
+        "Longitude": -117.4546,
+        "Latitude": 34.25145,
+        "Type": "Wildfire",
+        "UniqueId": "9f0d7a3b-ae47-42a5-b360-ea2f4141cad4",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/28/roadside-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-28",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
