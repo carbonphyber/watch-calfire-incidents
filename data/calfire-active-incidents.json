@@ -427,7 +427,7 @@
     {
         "Name": "Roadside Fire",
         "Final": false,
-        "Updated": "2021-08-28T14:32:07Z",
+        "Updated": "2021-08-28T15:13:44Z",
         "Started": "2021-08-28T11:25:00Z",
         "AdminUnit": "San Bernardino National Forest & San Bernardino County Fire",
         "AdminUnitUrl": null,
@@ -447,6 +447,31 @@
         "StartedDateOnly": "2021-08-28",
         "IsActive": true,
         "CalFireIncident": false,
+        "NotificationDesired": false
+    },
+    {
+        "Name": "Chaparral Fire",
+        "Final": false,
+        "Updated": "2021-08-28T15:15:54Z",
+        "Started": "2021-08-28T12:40:04Z",
+        "AdminUnit": "Unified Command: CAL FIRE Riverside County Fire, Cleveland National Forest",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Cleveland Forest Road and Tenaja Road southwest of Murrieta in San Diego County.",
+        "AcresBurned": 80.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -117.39309,
+        "Latitude": 33.484721,
+        "Type": "Wildfire",
+        "UniqueId": "64a7c61a-5634-410a-a1c4-aeb97b2283e0",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/28/chaparral-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-28",
+        "IsActive": true,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
