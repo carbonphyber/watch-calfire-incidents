@@ -3927,11 +3927,11 @@
     {
         "Name": "Chaparral Fire",
         "Final": false,
-        "Updated": "2021-08-29T08:03:53Z",
+        "Updated": "2021-08-29T10:45:25Z",
         "Started": "2021-08-28T14:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Riverside County Fire, Cleveland National Forest",
         "AdminUnitUrl": null,
-        "County": "San Diego",
+        "County": "Riverside, San Diego",
         "Location": "Cleveland Forest Road and Tenaja Road southwest of Murrieta in San Diego County.",
         "AcresBurned": 1425.0,
         "PercentContained": 10.0,
