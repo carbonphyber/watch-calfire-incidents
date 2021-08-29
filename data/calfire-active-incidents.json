@@ -302,8 +302,8 @@
     {
         "Name": "French Fire",
         "Final": false,
-        "Updated": "2021-08-29T08:14:27-07:00",
-        "Started": "2021-08-18T18:25:00",
+        "Updated": "2021-08-29T08:14:27Z",
+        "Started": "2021-08-18T18:25:00Z",
         "AdminUnit": "Kern County Fire",
         "AdminUnitUrl": null,
         "County": "Kern",
@@ -322,7 +322,7 @@
         "StartedDateOnly": "2021-08-18",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     },
     {
         "Name": "Airola Fire",
