@@ -3777,14 +3777,14 @@
     {
         "Name": "Airola Fire",
         "Final": false,
-        "Updated": "2021-08-28T19:01:50Z",
-        "Started": "2021-08-25T14:55:00Z",
+        "Updated": "2021-08-29T07:27:49-07:00",
+        "Started": "2021-08-25T14:55:00",
         "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
         "AdminUnitUrl": null,
         "County": "Calaveras",
         "Location": "Parrotts Ferry Rd and Airola Rd, west of Columbia",
-        "AcresBurned": 700.0,
-        "PercentContained": 60.0,
+        "AcresBurned": 639.0,
+        "PercentContained": 65.0,
         "ControlStatement": null,
         "AgencyNames": "Cooperating Agencies: California Highway Patrol, Calaveras County Sheriff\u2019s, Calaveras County OES, California Department of Corrections and Rehabilitation, California Conservation Corps",
         "Longitude": -120.454797,
@@ -3797,7 +3797,7 @@
         "StartedDateOnly": "2021-08-25",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": false
+        "NotificationDesired": true
     },
     {
         "Name": "South Fire",
@@ -3877,8 +3877,8 @@
     {
         "Name": "Washington Fire",
         "Final": false,
-        "Updated": "2021-08-29T07:13:31-07:00",
-        "Started": "2021-08-26T13:20:00",
+        "Updated": "2021-08-29T07:13:31Z",
+        "Started": "2021-08-26T13:20:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit & City of Sonora",
         "AdminUnitUrl": null,
         "County": "Tuolumne",
@@ -3897,7 +3897,7 @@
         "StartedDateOnly": "2021-08-26",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": true
+        "NotificationDesired": false
     },
     {
         "Name": "Roadside Fire",
