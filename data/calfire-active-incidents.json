@@ -377,8 +377,8 @@
     {
         "Name": "Washington Fire",
         "Final": false,
-        "Updated": "2021-08-28T19:00:53Z",
-        "Started": "2021-08-26T13:20:00Z",
+        "Updated": "2021-08-29T07:13:31-07:00",
+        "Started": "2021-08-26T13:20:00",
         "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit & City of Sonora",
         "AdminUnitUrl": null,
         "County": "Tuolumne",
@@ -397,7 +397,7 @@
         "StartedDateOnly": "2021-08-26",
         "IsActive": true,
         "CalFireIncident": true,
-        "NotificationDesired": false
+        "NotificationDesired": true
     },
     {
         "Name": "Roadside Fire",
