@@ -3602,8 +3602,8 @@
     {
         "Name": "Caldor Fire",
         "Final": false,
-        "Updated": "2021-08-30T08:26:15Z",
-        "Started": "2021-08-14T00:00:00Z",
+        "Updated": "2021-08-30T10:31:07Z",
+        "Started": "2021-08-14T18:54:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit and El Dorado National Forest",
         "AdminUnitUrl": null,
         "County": "El Dorado",
@@ -3702,8 +3702,8 @@
     {
         "Name": "French Fire",
         "Final": false,
-        "Updated": "2021-08-30T09:31:23Z",
-        "Started": "2021-08-18T00:00:00Z",
+        "Updated": "2021-08-30T10:31:21Z",
+        "Started": "2021-08-18T16:25:00Z",
         "AdminUnit": "Kern County Fire",
         "AdminUnitUrl": null,
         "County": "Kern",
