@@ -473,5 +473,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Knob Fire",
+        "Final": false,
+        "Updated": "2021-08-30T08:55:14Z",
+        "Started": "2021-08-30T14:38:00Z",
+        "AdminUnit": "CAL FIRE Humboldt-Del Norte",
+        "AdminUnitUrl": null,
+        "County": "Humboldt",
+        "Location": "Friday Spur Rd & China Creek, south of Willow Creek",
+        "AcresBurned": 250.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -123.6744,
+        "Latitude": 40.8652,
+        "Type": "Wildfire",
+        "UniqueId": "d7b908db-7184-4f9e-923f-f811688cf4eb",
+        "Url": "https://www.fire.ca.gov/incidents/2021/8/30/knob-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-08-30",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
