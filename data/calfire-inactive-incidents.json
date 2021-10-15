@@ -4498,5 +4498,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Canal Fire ",
+        "Final": false,
+        "Updated": "2021-10-14T17:04:34Z",
+        "Started": "2021-10-14T16:49:00Z",
+        "AdminUnit": "CAL FIRE - Tehama-Glenn Unit",
+        "AdminUnitUrl": null,
+        "County": "Trinity",
+        "Location": "Canal View Rd x Paskenta Rd,  northwest of Corning",
+        "AcresBurned": 40.0,
+        "PercentContained": 10.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.277441,
+        "Latitude": 39.986836,
+        "Type": "Wildfire",
+        "UniqueId": "16f4a871-6b4e-493c-ada9-cff37913e521",
+        "Url": "https://www.fire.ca.gov/incidents/2021/10/14/canal-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2021-10-14",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
