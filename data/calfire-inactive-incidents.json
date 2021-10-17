@@ -4527,7 +4527,7 @@
     {
         "Name": "Gravel Fire",
         "Final": true,
-        "Updated": "2021-10-16T19:25:44Z",
+        "Updated": "2021-10-17T08:52:22Z",
         "Started": "2021-10-15T15:15:00Z",
         "AdminUnit": "USFS - Modoc National Forest",
         "AdminUnitUrl": null,
@@ -4545,7 +4545,7 @@
         "ExtinguishedDate": "2021-10-16T19:25:23Z",
         "ExtinguishedDateOnly": "2021-10-16",
         "StartedDateOnly": "2021-10-15",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
