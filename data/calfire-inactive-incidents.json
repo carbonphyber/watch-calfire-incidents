@@ -1,8 +1,8 @@
 [
     {
         "Name": "Colorado Fire",
-        "Final": false,
-        "Updated": "2022-02-01T06:56:12Z",
+        "Final": true,
+        "Updated": "2022-02-02T09:00:16Z",
         "Started": "2022-01-21T17:19:00Z",
         "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
         "AdminUnitUrl": null,
@@ -20,7 +20,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-01-21",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     }
