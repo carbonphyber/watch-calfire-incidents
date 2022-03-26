@@ -227,7 +227,7 @@
     {
         "Name": "Whitlow Fire",
         "Final": false,
-        "Updated": "2022-03-26T08:17:35Z",
+        "Updated": "2022-03-26T09:41:46Z",
         "Started": "2022-03-25T21:30:21Z",
         "AdminUnit": "CALFIRE Siskiyou Unit",
         "AdminUnitUrl": null,
@@ -246,7 +246,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-03-25",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
