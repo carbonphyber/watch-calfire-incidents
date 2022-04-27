@@ -23,5 +23,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Platina Fire",
+        "Final": false,
+        "Updated": "2022-04-27T16:24:07Z",
+        "Started": "2022-04-27T13:56:00Z",
+        "AdminUnit": "CAL FIRE Shasta-Trinity Unit ",
+        "AdminUnitUrl": null,
+        "County": "Shasta",
+        "Location": "Platina Road and Nono Road, Southwest of Redding",
+        "AcresBurned": 10.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.690559,
+        "Latitude": 40.44412,
+        "Type": "Wildfire",
+        "UniqueId": "4a03c163-2598-4adf-aec1-5c3dac41fa23",
+        "Url": "https://www.fire.ca.gov/incidents/2022/4/27/platina-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-04-27",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
