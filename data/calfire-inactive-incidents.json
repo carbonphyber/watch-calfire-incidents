@@ -323,5 +323,30 @@
         "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "111 Fire",
+        "Final": false,
+        "Updated": "2022-05-01T09:02:03Z",
+        "Started": "2022-04-30T20:33:00Z",
+        "AdminUnit": "CAL FIRE / Riverside County Fire",
+        "AdminUnitUrl": null,
+        "County": "Riverside",
+        "Location": "Hwy 111 and Parkside Dr, 10 miles South of the City of Coachella",
+        "AcresBurned": 12.5,
+        "PercentContained": 50.0,
+        "ControlStatement": null,
+        "AgencyNames": "CAL FIRE / Riverside County Fire",
+        "Longitude": -115.916687,
+        "Latitude": 33.510716,
+        "Type": "Wildfire",
+        "UniqueId": "f904489b-0488-4764-9a98-bd3b818d1756",
+        "Url": "https://www.fire.ca.gov/incidents/2022/4/30/111-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-04-30",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
