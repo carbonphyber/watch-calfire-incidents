@@ -377,7 +377,7 @@
     {
         "Name": "House Fire",
         "Final": false,
-        "Updated": "2022-05-12T07:18:22Z",
+        "Updated": "2022-05-12T08:11:23Z",
         "Started": "2022-05-11T12:39:00Z",
         "AdminUnit": "CAL FIRE/Fresno County Fire",
         "AdminUnitUrl": null,
@@ -396,19 +396,19 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-05-11",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     },
     {
         "Name": "Coastal Fire",
         "Final": false,
-        "Updated": "2022-05-12T07:18:52Z",
+        "Updated": "2022-05-12T08:09:03Z",
         "Started": "2022-05-11T14:51:00Z",
         "AdminUnit": "Orange County Fire Authority",
         "AdminUnitUrl": null,
         "County": "Orange",
         "Location": "St. Tropez and Laguna Ridge Trail, southeast of Laguna Beach ",
-        "AcresBurned": 195.0,
+        "AcresBurned": 199.0,
         "PercentContained": 0.0,
         "ControlStatement": null,
         "AgencyNames": "",
@@ -421,7 +421,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-05-11",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
