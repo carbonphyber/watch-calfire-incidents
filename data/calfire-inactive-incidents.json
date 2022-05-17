@@ -451,8 +451,8 @@
     },
     {
         "Name": "Poplar Fire",
-        "Final": false,
-        "Updated": "2022-05-16T20:06:32Z",
+        "Final": true,
+        "Updated": "2022-05-17T09:17:03Z",
         "Started": "2022-05-16T18:36:01Z",
         "AdminUnit": "Tulare County Fire",
         "AdminUnitUrl": null,
@@ -467,10 +467,10 @@
         "Type": "Fire",
         "UniqueId": "c20ca686-9666-4f4e-861e-bb6085d0e889",
         "Url": "https://www.fire.ca.gov/incidents/2022/5/16/poplar-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
+        "ExtinguishedDate": "2022-05-16T09:15:52Z",
+        "ExtinguishedDateOnly": "2022-05-16",
         "StartedDateOnly": "2022-05-16",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     }
