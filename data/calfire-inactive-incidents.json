@@ -498,5 +498,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Willow Fire ",
+        "Final": false,
+        "Updated": "2022-05-20T13:33:15Z",
+        "Started": "2022-05-20T12:08:00Z",
+        "AdminUnit": "CAL FIRE Santa Clara ",
+        "AdminUnitUrl": null,
+        "County": "Contra Costa",
+        "Location": "Willow Pass Court and Willow Pass Road, near Bay Point",
+        "AcresBurned": 30.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.998735,
+        "Latitude": 38.015611,
+        "Type": "Wildfire",
+        "UniqueId": "b211e55a-9b50-4e22-b014-55a6e4b27001",
+        "Url": "https://www.fire.ca.gov/incidents/2022/5/20/willow-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-05-20",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
