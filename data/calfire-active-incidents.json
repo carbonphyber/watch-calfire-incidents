@@ -25,31 +25,6 @@
         "NotificationDesired": false
     },
     {
-        "Name": "Coyote Fire",
-        "Final": false,
-        "Updated": "2022-05-16T17:16:41Z",
-        "Started": "2022-05-15T17:33:40Z",
-        "AdminUnit": "CAL FIRE RRU",
-        "AdminUnitUrl": null,
-        "County": "Riverside",
-        "Location": "Near Old Idyllwild Road, in Banning",
-        "AcresBurned": 46.0,
-        "PercentContained": 80.0,
-        "ControlStatement": null,
-        "AgencyNames": "",
-        "Longitude": -116.900635,
-        "Latitude": 33.886637,
-        "Type": "Fire",
-        "UniqueId": "93c25ae3-115d-465b-8994-c15b1b81b466",
-        "Url": "https://www.fire.ca.gov/incidents/2022/5/15/coyote-fire/",
-        "ExtinguishedDate": "",
-        "ExtinguishedDateOnly": "",
-        "StartedDateOnly": "2022-05-15",
-        "IsActive": true,
-        "CalFireIncident": false,
-        "NotificationDesired": false
-    },
-    {
         "Name": "Edmonston Fire",
         "Final": false,
         "Updated": "2022-05-23T07:48:47Z",
@@ -77,7 +52,7 @@
     {
         "Name": "Quail Fire",
         "Final": false,
-        "Updated": "2022-05-23T07:48:53Z",
+        "Updated": "2022-05-23T09:19:48Z",
         "Started": "2022-05-21T15:14:00Z",
         "AdminUnit": "CAL FIRE Solano-Lake-Napa Unit",
         "AdminUnitUrl": null,
@@ -96,7 +71,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-05-21",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
