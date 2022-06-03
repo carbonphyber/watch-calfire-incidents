@@ -773,5 +773,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Range Fire",
+        "Final": false,
+        "Updated": "2022-06-03T14:59:11Z",
+        "Started": "2022-06-03T10:59:00Z",
+        "AdminUnit": "Kern County Fire Department & CAL FIRE Tulare",
+        "AdminUnitUrl": null,
+        "County": "Kern",
+        "Location": "Hwy 223 and Deertrail Drive,  west of Tehachapi",
+        "AcresBurned": 100.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.062595,
+        "Latitude": 34.924429,
+        "Type": "Wildfire",
+        "UniqueId": "ab7f7bfd-8c3d-4199-8caa-bfc192dc29a4",
+        "Url": "https://www.fire.ca.gov/incidents/2022/6/3/range-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-06-03",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
