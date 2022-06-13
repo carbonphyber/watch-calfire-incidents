@@ -1048,5 +1048,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Border 13 Fire ",
+        "Final": false,
+        "Updated": "2022-06-13T15:05:48Z",
+        "Started": "2022-06-13T14:56:33Z",
+        "AdminUnit": "CAL FIRE San Diego",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "East of Marron Valley near Border Road in San Diego County. ",
+        "AcresBurned": 350.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.768767,
+        "Latitude": 32.607926,
+        "Type": "Wildfire",
+        "UniqueId": "954eef2a-0cff-404d-a2b4-d0acbcf8d3de",
+        "Url": "https://www.fire.ca.gov/incidents/2022/6/13/border-13-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-06-13",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
