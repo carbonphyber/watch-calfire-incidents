@@ -1023,5 +1023,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Barrett Fire",
+        "Final": false,
+        "Updated": "2022-06-12T22:00:48Z",
+        "Started": "2022-06-12T18:16:43Z",
+        "AdminUnit": "CAL FIRE San Diego Unit",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Hwy 94 and Barrett Rd, Barrett in San Diego County",
+        "AcresBurned": 65.0,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.5882585,
+        "Latitude": 32.8134303,
+        "Type": "Wildfire",
+        "UniqueId": "3eb84741-bc4e-4beb-aeb3-6f485fca145c",
+        "Url": "https://www.fire.ca.gov/incidents/2022/6/12/barrett-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-06-12",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
