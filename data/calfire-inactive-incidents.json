@@ -1073,5 +1073,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Rancho Fire",
+        "Final": false,
+        "Updated": "2022-06-13T21:14:27Z",
+        "Started": "2022-06-13T21:05:09Z",
+        "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
+        "AdminUnitUrl": null,
+        "County": "Tehama",
+        "Location": "Rancho Tehama Rd and Alpine Dr, northwest of Corning",
+        "AcresBurned": 250.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.45621,
+        "Latitude": 40.00919,
+        "Type": "Wildfire",
+        "UniqueId": "2c095f28-ae55-4a23-9378-2a74989e889f",
+        "Url": "https://www.fire.ca.gov/incidents/2022/6/13/rancho-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-06-13",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
