@@ -952,9 +952,9 @@
     {
         "Name": "Plant Fire",
         "Final": false,
-        "Updated": "2022-06-13T07:56:31Z",
+        "Updated": "2022-06-14T09:18:00Z",
         "Started": "2022-06-11T02:49:16Z",
-        "AdminUnit": null,
+        "AdminUnit": "Kern County Fire ",
         "AdminUnitUrl": null,
         "County": "Kern",
         "Location": "Interstate 5 and Grapevine Rd, Grapevine",
@@ -977,7 +977,7 @@
     {
         "Name": "Brandie Fire",
         "Final": false,
-        "Updated": "2022-06-14T08:17:53Z",
+        "Updated": "2022-06-14T09:18:56Z",
         "Started": "2022-06-11T17:22:09Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit ",
         "AdminUnitUrl": null,
@@ -1002,7 +1002,7 @@
     {
         "Name": "Sheep Fire",
         "Final": false,
-        "Updated": "2022-06-14T08:03:56Z",
+        "Updated": "2022-06-14T09:04:25Z",
         "Started": "2022-06-12T06:45:19Z",
         "AdminUnit": "Angeles National Forest",
         "AdminUnitUrl": null,
@@ -1027,7 +1027,7 @@
     {
         "Name": "Barrett Fire",
         "Final": false,
-        "Updated": "2022-06-13T20:13:52Z",
+        "Updated": "2022-06-14T09:20:36Z",
         "Started": "2022-06-12T18:16:43Z",
         "AdminUnit": "CAL FIRE San Diego Unit",
         "AdminUnitUrl": null,
@@ -1052,7 +1052,7 @@
     {
         "Name": "Border 13 Fire ",
         "Final": false,
-        "Updated": "2022-06-14T07:46:31Z",
+        "Updated": "2022-06-14T09:20:05Z",
         "Started": "2022-06-13T14:56:33Z",
         "AdminUnit": "CAL FIRE San Diego",
         "AdminUnitUrl": null,
