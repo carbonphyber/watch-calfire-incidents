@@ -927,7 +927,7 @@
     {
         "Name": "Graham Fire",
         "Final": false,
-        "Updated": "2022-06-10T11:57:10Z",
+        "Updated": "2022-06-16T13:27:17Z",
         "Started": "2022-06-10T11:51:07Z",
         "AdminUnit": "Lassen National Forest ",
         "AdminUnitUrl": null,
@@ -1052,7 +1052,7 @@
     {
         "Name": "Border 13 Fire ",
         "Final": false,
-        "Updated": "2022-06-16T06:52:08Z",
+        "Updated": "2022-06-16T13:31:41Z",
         "Started": "2022-06-13T14:56:33Z",
         "AdminUnit": "CAL FIRE San Diego",
         "AdminUnitUrl": null,
@@ -1062,8 +1062,8 @@
         "PercentContained": 80.0,
         "ControlStatement": null,
         "AgencyNames": "",
-        "Longitude": -116.768767,
-        "Latitude": 32.607926,
+        "Longitude": -116.737119,
+        "Latitude": 32.614832,
         "Type": "Wildfire",
         "UniqueId": "954eef2a-0cff-404d-a2b4-d0acbcf8d3de",
         "Url": "https://www.fire.ca.gov/incidents/2022/6/13/border-13-fire/",
