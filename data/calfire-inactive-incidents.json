@@ -1102,9 +1102,9 @@
     {
         "Name": "Border 16",
         "Final": false,
-        "Updated": "2022-06-22T07:24:51Z",
+        "Updated": "2022-06-22T08:09:23Z",
         "Started": "2022-06-21T10:08:00Z",
-        "AdminUnit": "Monte Vista Unit",
+        "AdminUnit": "CAL FIRE San Diego Unit",
         "AdminUnitUrl": null,
         "County": "San Diego",
         "Location": "Marron Valley Rd and Tecate Creek, south of Dulzura",
@@ -1121,13 +1121,13 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-06-21",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     },
     {
         "Name": "Edgewood",
         "Final": false,
-        "Updated": "2022-06-22T07:28:49Z",
+        "Updated": "2022-06-22T08:04:41Z",
         "Started": "2022-06-21T14:30:00Z",
         "AdminUnit": "CAL FIRE San Mateo-Santa Cruz Unit\r\nRedwood City Fire Department",
         "AdminUnitUrl": null,
@@ -1146,7 +1146,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-06-21",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
