@@ -77,9 +77,9 @@
     {
         "Name": "Edgewood",
         "Final": false,
-        "Updated": "2022-06-22T08:04:41Z",
+        "Updated": "2022-06-22T08:38:56Z",
         "Started": "2022-06-21T14:30:00Z",
-        "AdminUnit": "CAL FIRE San Mateo-Santa Cruz Unit\r\nRedwood City Fire Department",
+        "AdminUnit": "CAL FIRE San Mateo-Santa Cruz Unit &\r\nRedwood City Fire Department",
         "AdminUnitUrl": null,
         "County": "Santa Cruz",
         "Location": "Rocky Way and Eastview Way at Edgewood County Park ",
