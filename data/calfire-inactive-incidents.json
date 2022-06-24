@@ -1323,5 +1323,30 @@
         "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Kirker Fire ",
+        "Final": false,
+        "Updated": "2022-06-24T13:40:55Z",
+        "Started": "2022-06-24T12:20:00Z",
+        "AdminUnit": "CAL FIRE Santa Clara Unit ",
+        "AdminUnitUrl": null,
+        "County": "Contra Costa",
+        "Location": "Kirker Pass Rd and Black Diamond Trail, northeast of Clayton",
+        "AcresBurned": 30.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.908735,
+        "Latitude": 37.97689,
+        "Type": "Wildfire",
+        "UniqueId": "88867d1f-eb64-4966-b86d-115c913cae39",
+        "Url": "https://www.fire.ca.gov/incidents/2022/6/24/kirker-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-06-24",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
