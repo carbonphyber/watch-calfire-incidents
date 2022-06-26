@@ -98,5 +98,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Ridge Fire",
+        "Final": false,
+        "Updated": "2022-06-26T08:17:35Z",
+        "Started": "2022-06-26T08:13:12Z",
+        "AdminUnit": "CAL FIRE Siskiyou",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Rainbow ridge , West of Mount Shasta in Siskiyou County. ",
+        "AcresBurned": 10.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.359698,
+        "Latitude": 41.317476,
+        "Type": "Wildfire",
+        "UniqueId": "78fccf47-afdf-4e7a-bcd3-10c574b5dad2",
+        "Url": "https://www.fire.ca.gov/incidents/2022/6/26/ridge-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-06-26",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
