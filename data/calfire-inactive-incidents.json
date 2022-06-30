@@ -1548,5 +1548,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Nelson Fire",
+        "Final": false,
+        "Updated": "2022-06-30T15:56:31Z",
+        "Started": "2022-06-30T15:18:00Z",
+        "AdminUnit": "CAL FIRE Butte Unit ",
+        "AdminUnitUrl": null,
+        "County": "Butte",
+        "Location": "Nelson Ave and Wilber Rd,  west of Oroville",
+        "AcresBurned": 75.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.650851,
+        "Latitude": 39.524038,
+        "Type": "Wildfire",
+        "UniqueId": "d87c11f9-0995-4802-91c5-f99f7e97d75f",
+        "Url": "https://www.fire.ca.gov/incidents/2022/6/30/nelson-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-06-30",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
