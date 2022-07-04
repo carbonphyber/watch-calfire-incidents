@@ -1627,9 +1627,9 @@
     {
         "Name": "Garrison Fire",
         "Final": false,
-        "Updated": "2022-07-04T09:31:32Z",
+        "Updated": "2022-07-04T09:36:36Z",
         "Started": "2022-07-04T09:26:12Z",
-        "AdminUnit": "Unified Command: CAL FIRE and Camp Roberts Army Base. ",
+        "AdminUnit": "Unified Command: CAL FIRE San Benito-Monterey and Camp Roberts Army Base. ",
         "AdminUnitUrl": null,
         "County": "Monterey",
         "Location": "Hwy 101 and East Garrison, near Camp Roberts in Monterey County",
@@ -1646,7 +1646,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-07-04",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
