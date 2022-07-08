@@ -1723,5 +1723,30 @@
         "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Bay Fire",
+        "Final": false,
+        "Updated": "2022-07-08T14:12:35Z",
+        "Started": "2022-07-08T13:10:00Z",
+        "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit ",
+        "AdminUnitUrl": null,
+        "County": "Yuba",
+        "Location": "Marysville Rd at Bayberry Ln in Browns Valley ",
+        "AcresBurned": 15.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.372749,
+        "Latitude": 39.300253,
+        "Type": "Wildfire",
+        "UniqueId": "39d88789-80ba-4a50-b96a-bddefd6593a3",
+        "Url": "https://www.fire.ca.gov/incidents/2022/7/8/bay-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-07-08",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
