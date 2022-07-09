@@ -27,7 +27,7 @@
     {
         "Name": "Electra Fire",
         "Final": false,
-        "Updated": "2022-07-08T20:02:56Z",
+        "Updated": "2022-07-09T08:18:39Z",
         "Started": "2022-07-04T18:42:17Z",
         "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
         "AdminUnitUrl": null,
@@ -36,7 +36,7 @@
         "AcresBurned": 4478.0,
         "PercentContained": 70.0,
         "ControlStatement": null,
-        "AgencyNames": "Calaveras County Sheriff Office, Amador County Sheriff Office, Amador Fire Protection District, Amador Water Agency, OES, BLM, CALGAURD, CHP, USFS",
+        "AgencyNames": "Amador County, Calaveras County, Amador FPD, BLM, CAL OES, CALGUARD, CHP, USFS, Amador Water Agency",
         "Longitude": -120.665415,
         "Latitude": 38.334802,
         "Type": "Wildfire",
