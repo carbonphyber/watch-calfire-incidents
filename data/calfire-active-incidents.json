@@ -98,5 +98,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Porter Fire",
+        "Final": false,
+        "Updated": "2022-07-09T18:00:02Z",
+        "Started": "2022-07-09T15:36:05Z",
+        "AdminUnit": "Nevada-Yuba-Placer Unit",
+        "AdminUnitUrl": null,
+        "County": "Placer",
+        "Location": "Porter Rd and Camp Far West Rd, east of Wheatland",
+        "AcresBurned": 175.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.344587,
+        "Latitude": 39.020051,
+        "Type": "Wildfire",
+        "UniqueId": "6835535e-9016-4297-a743-c657e76e39d3",
+        "Url": "https://www.fire.ca.gov/incidents/2022/7/9/porter-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-07-09",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
