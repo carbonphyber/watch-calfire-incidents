@@ -1502,7 +1502,7 @@
     {
         "Name": "Rices Fire",
         "Final": false,
-        "Updated": "2022-07-07T09:28:21Z",
+        "Updated": "2022-07-11T08:27:15Z",
         "Started": "2022-06-28T14:00:00Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
         "AdminUnitUrl": null,
@@ -1652,7 +1652,7 @@
     {
         "Name": "Electra Fire",
         "Final": false,
-        "Updated": "2022-07-11T08:12:30Z",
+        "Updated": "2022-07-11T08:24:10Z",
         "Started": "2022-07-04T18:42:17Z",
         "AdminUnit": "Unified Command: CAL FIRE Amador-El Dorado Unit, Amador County Sheriff's Office, Calaveras County Sheriff's Office",
         "AdminUnitUrl": null,
@@ -1776,15 +1776,15 @@
     },
     {
         "Name": "Porter Fire",
-        "Final": false,
-        "Updated": "2022-07-09T20:09:26Z",
+        "Final": true,
+        "Updated": "2022-07-11T08:34:46Z",
         "Started": "2022-07-09T15:36:05Z",
         "AdminUnit": "Nevada-Yuba-Placer Unit",
         "AdminUnitUrl": null,
         "County": "Placer",
-        "Location": "Porter Rd and Camp Far West Rd, east of Wheatland",
+        "Location": "Porter Road and Camp Far West Road, east of Wheatland",
         "AcresBurned": 166.0,
-        "PercentContained": 85.0,
+        "PercentContained": 100.0,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -121.344587,
@@ -1795,7 +1795,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-07-09",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": false
     }
