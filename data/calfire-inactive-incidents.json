@@ -1798,5 +1798,30 @@
         "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Harbison",
+        "Final": false,
+        "Updated": "2022-07-12T18:53:37Z",
+        "Started": "2022-07-12T18:28:08Z",
+        "AdminUnit": "CAL FIRE San Diego Unit",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Harbison Canyon Road and Los Caballos Lane, Harbison Canyon in San Diego County",
+        "AcresBurned": 37.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.8460273,
+        "Latitude": 32.7947379,
+        "Type": "Wildfire",
+        "UniqueId": "7a9b1646-9b86-4721-b99d-9cfe02ba1fec",
+        "Url": "https://www.fire.ca.gov/incidents/2022/7/12/harbison/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-07-12",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
