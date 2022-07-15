@@ -52,7 +52,7 @@
     {
         "Name": "Peter Fire ",
         "Final": false,
-        "Updated": "2022-07-15T09:28:51Z",
+        "Updated": "2022-07-15T12:36:56Z",
         "Started": "2022-07-14T16:56:00Z",
         "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
         "AdminUnitUrl": null,
@@ -77,12 +77,12 @@
     {
         "Name": "Grant Fire",
         "Final": false,
-        "Updated": "2022-07-15T09:28:54Z",
+        "Updated": "2022-07-15T12:38:30Z",
         "Started": "2022-07-14T17:46:00Z",
         "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
         "AdminUnitUrl": null,
         "County": "Sacramento",
-        "Location": "Boys Ranch Rd and Scott Rd, Rancho Murieta, Ca",
+        "Location": "14049 Boys Ranch Rd. Sloughhouse, Ca.",
         "AcresBurned": 74.0,
         "PercentContained": 65.0,
         "ControlStatement": null,
