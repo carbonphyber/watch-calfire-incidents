@@ -98,5 +98,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Rainbow Fire",
+        "Final": false,
+        "Updated": "2022-07-16T14:59:18Z",
+        "Started": "2022-07-16T13:05:00Z",
+        "AdminUnit": "CAL FIRE Tehama Glenn Unit",
+        "AdminUnitUrl": null,
+        "County": "Tehama",
+        "Location": "Rainbow Ridge and Stagecoach Rd northwest of Corning",
+        "AcresBurned": 100.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.433855,
+        "Latitude": 40.010233,
+        "Type": "Wildfire",
+        "UniqueId": "632bea0c-612e-42fa-8b27-b3514c734da2",
+        "Url": "https://www.fire.ca.gov/incidents/2022/7/16/rainbow-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-07-16",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
