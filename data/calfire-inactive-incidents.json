@@ -1852,7 +1852,7 @@
     {
         "Name": "Peter Fire ",
         "Final": false,
-        "Updated": "2022-07-18T11:26:26Z",
+        "Updated": "2022-07-18T11:37:11Z",
         "Started": "2022-07-14T16:56:00Z",
         "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
         "AdminUnitUrl": null,
@@ -1902,7 +1902,7 @@
     {
         "Name": "Rainbow Fire",
         "Final": false,
-        "Updated": "2022-07-18T11:25:09Z",
+        "Updated": "2022-07-18T11:37:29Z",
         "Started": "2022-07-16T13:05:00Z",
         "AdminUnit": "CAL FIRE Tehama Glenn Unit",
         "AdminUnitUrl": null,
@@ -1952,7 +1952,7 @@
     {
         "Name": "Border 27 Fire",
         "Final": false,
-        "Updated": "2022-07-18T11:23:53Z",
+        "Updated": "2022-07-18T11:41:44Z",
         "Started": "2022-07-17T11:25:17Z",
         "AdminUnit": "CAL FIRE MVU",
         "AdminUnitUrl": null,
@@ -1977,7 +1977,7 @@
     {
         "Name": "Bell Fire",
         "Final": false,
-        "Updated": "2022-07-18T11:15:28Z",
+        "Updated": "2022-07-18T11:35:26Z",
         "Started": "2022-07-17T16:36:27Z",
         "AdminUnit": "CAL FIRE MEU",
         "AdminUnitUrl": null,
@@ -1986,7 +1986,7 @@
         "AcresBurned": 43.0,
         "PercentContained": 85.0,
         "ControlStatement": null,
-        "AgencyNames": "Amador County, Calaveras County, Amador FPD, BLM, CAL OES, CALGUARD, CHP",
+        "AgencyNames": "",
         "Longitude": -123.598273,
         "Latitude": 39.90557,
         "Type": "Wildfire",
