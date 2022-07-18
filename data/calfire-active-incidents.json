@@ -2,7 +2,7 @@
     {
         "Name": "Electra Fire",
         "Final": false,
-        "Updated": "2022-07-18T07:09:00Z",
+        "Updated": "2022-07-18T11:57:46Z",
         "Started": "2022-07-04T18:42:17Z",
         "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
         "AdminUnitUrl": null,
@@ -127,7 +127,7 @@
     {
         "Name": "Bell Fire",
         "Final": false,
-        "Updated": "2022-07-18T11:35:26Z",
+        "Updated": "2022-07-18T12:17:08Z",
         "Started": "2022-07-17T16:36:27Z",
         "AdminUnit": "CAL FIRE MEU",
         "AdminUnitUrl": null,
@@ -136,7 +136,7 @@
         "AcresBurned": 43.0,
         "PercentContained": 85.0,
         "ControlStatement": null,
-        "AgencyNames": "",
+        "AgencyNames": "Mendocino County Sheriff Office. Leggett Valley Fire Department. Little Lake Fire Department. Laytonville Volunteer Fire Department. ",
         "Longitude": -123.598273,
         "Latitude": 39.90557,
         "Type": "Wildfire",
