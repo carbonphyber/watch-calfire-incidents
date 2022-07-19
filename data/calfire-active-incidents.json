@@ -52,7 +52,7 @@
     {
         "Name": "Peter Fire ",
         "Final": false,
-        "Updated": "2022-07-18T11:37:11Z",
+        "Updated": "2022-07-19T08:48:18Z",
         "Started": "2022-07-14T16:56:00Z",
         "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
         "AdminUnitUrl": null,
@@ -77,7 +77,7 @@
     {
         "Name": "Rainbow Fire",
         "Final": false,
-        "Updated": "2022-07-19T08:25:00Z",
+        "Updated": "2022-07-19T08:42:04Z",
         "Started": "2022-07-16T13:05:00Z",
         "AdminUnit": "CAL FIRE Tehama Glenn Unit",
         "AdminUnitUrl": null,
@@ -127,7 +127,7 @@
     {
         "Name": "Bell Fire",
         "Final": false,
-        "Updated": "2022-07-19T08:25:05Z",
+        "Updated": "2022-07-19T08:40:24Z",
         "Started": "2022-07-17T16:36:27Z",
         "AdminUnit": "CAL FIRE MEU",
         "AdminUnitUrl": null,
@@ -152,14 +152,14 @@
     {
         "Name": "Agua Fire",
         "Final": false,
-        "Updated": "2022-07-18T19:01:06Z",
+        "Updated": "2022-07-19T08:37:30Z",
         "Started": "2022-07-18T13:13:00Z",
         "AdminUnit": "CAL FIRE Madera-Mariposa.-Merced Unit ",
         "AdminUnitUrl": null,
         "County": "Mariposa",
         "Location": "Hwy 140 & Agua Fira Rd, 3 miles west of Mariposa ",
         "AcresBurned": 300.0,
-        "PercentContained": 10.0,
+        "PercentContained": 20.0,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -120.02107,
@@ -177,7 +177,7 @@
     {
         "Name": "Winding Fire",
         "Final": false,
-        "Updated": "2022-07-19T08:25:07Z",
+        "Updated": "2022-07-19T08:47:05Z",
         "Started": "2022-07-18T16:43:31Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba Placer Unit (NEU)",
         "AdminUnitUrl": null,
