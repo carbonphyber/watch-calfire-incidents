@@ -2077,7 +2077,7 @@
     {
         "Name": "Flynn Fire ",
         "Final": false,
-        "Updated": "2022-07-19T19:17:13Z",
+        "Updated": "2022-07-19T19:22:47Z",
         "Started": "2022-07-19T19:08:46Z",
         "AdminUnit": "CAL FIRE Santa Clara ",
         "AdminUnitUrl": null,
@@ -2096,7 +2096,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-07-19",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
