@@ -123,5 +123,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Slate Fire ",
+        "Final": false,
+        "Updated": "2022-07-21T15:55:41Z",
+        "Started": "2022-07-21T14:22:00Z",
+        "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+        "AdminUnitUrl": null,
+        "County": "Tuolumne",
+        "Location": "ghway 108 X Chicken Ranch Road, Southwest of Jamestown",
+        "AcresBurned": 50.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.4422218,
+        "Latitude": 37.935092,
+        "Type": "Wildfire",
+        "UniqueId": "2786397c-0bd0-46f8-bdf8-3f749d061593",
+        "Url": "https://www.fire.ca.gov/incidents/2022/7/21/slate-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-07-21",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
