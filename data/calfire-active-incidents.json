@@ -77,7 +77,7 @@
     {
         "Name": "Winding Fire",
         "Final": false,
-        "Updated": "2022-07-21T08:09:44Z",
+        "Updated": "2022-07-21T08:48:16Z",
         "Started": "2022-07-18T16:43:31Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba Placer Unit (NEU)",
         "AdminUnitUrl": null,
@@ -86,7 +86,7 @@
         "AcresBurned": 82.0,
         "PercentContained": 80.0,
         "ControlStatement": null,
-        "AgencyNames": "Mariposa County Fire, Madera County Fire, Mariposa County Sheriff, CHP, Office of Emergency Services, PG&E, Caltrans, Mariposa County Public Works",
+        "AgencyNames": "",
         "Longitude": -121.27693,
         "Latitude": 39.314076,
         "Type": "Wildfire",
