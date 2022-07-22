@@ -173,5 +173,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Oak Fire ",
+        "Final": false,
+        "Updated": "2022-07-22T15:37:55Z",
+        "Started": "2022-07-22T14:00:00Z",
+        "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit ",
+        "AdminUnitUrl": null,
+        "County": "Mariposa",
+        "Location": "Hwy 140 and Carstens Rd, near Midpines",
+        "AcresBurned": 60.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -119.9234728,
+        "Latitude": 37.5509366,
+        "Type": "Wildfire",
+        "UniqueId": "fec1972c-dcdf-4a1c-a6ae-5c26a0b82815",
+        "Url": "https://www.fire.ca.gov/incidents/2022/7/22/oak-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-07-22",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
