@@ -2198,5 +2198,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Casner Fire",
+        "Final": false,
+        "Updated": "2022-07-27T14:13:03Z",
+        "Started": "2022-07-27T12:18:00Z",
+        "AdminUnit": "CAL FIRE San Diego Unit ",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "North of Highway 78 & Casner Rd, Intermountain/Witch Creek ",
+        "AcresBurned": 40.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.7626279,
+        "Latitude": 33.0819687,
+        "Type": "Wildfire",
+        "UniqueId": "487f18a9-7af4-4702-ba36-78aaef812e80",
+        "Url": "https://www.fire.ca.gov/incidents/2022/7/27/casner-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-07-27",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
