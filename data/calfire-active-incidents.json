@@ -27,7 +27,7 @@
     {
         "Name": "Oak Fire ",
         "Final": false,
-        "Updated": "2022-07-28T19:12:04Z",
+        "Updated": "2022-07-28T19:45:51Z",
         "Started": "2022-07-22T14:10:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Madera-Mariposa-Merced Unit and Sierra National Forest ",
         "AdminUnitUrl": null,
@@ -36,7 +36,7 @@
         "AcresBurned": 19191.0,
         "PercentContained": 42.0,
         "ControlStatement": null,
-        "AgencyNames": "Mariposa County Fire, CalOES, PG&E, California Highway Patrol, Bureau of Land Management, North Fork Rancheria, American Red Cross, California Department of Transportation, California Department of Corrections and Rehabilitation, California Conservation Corps, Central California Animal Disaster Team, Yosemite National Park, Southern Sierra Miwuk Nation, Mariposa Public Utilities District, Merced-Mariposa Cattleman\u2019s Association, Picayune Rancheria of Chuckchansi Indians, North Fork Mono Indians.",
+        "AgencyNames": "Cooperating Agencies: Mariposa County, CalOES, PG&E, California Highway Patrol, Bureau of Land Management, North Fork Rancheria, Southern Sierra Miwuk Nation, Picayune Rancheria of Chuckchansi Indians, North Fork Mono Indians, American Red Cross, California Department of Transportation, California Department of Corrections and Rehabilitation, California Conservation Corps, Central California Animal Disaster Team, Yosemite National Park, Mariposa Public Utilities District, Merced-Mariposa Cattleman\u2019s Association.",
         "Longitude": -119.9234728,
         "Latitude": 37.5509366,
         "Type": "Wildfire",
