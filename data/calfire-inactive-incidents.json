@@ -2323,5 +2323,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Shackleford Fire",
+        "Final": false,
+        "Updated": "2022-07-30T21:54:23Z",
+        "Started": "2022-07-30T18:06:00Z",
+        "AdminUnit": "Klamath National Forest ",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Back Meadows Rd and  Big Meadows Creek, West of Fort Jones ",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -123.0328267,
+        "Latitude": 41.5770681,
+        "Type": "Wildfire",
+        "UniqueId": "4d357743-0767-467c-9d27-585e4466bcce",
+        "Url": "https://www.fire.ca.gov/incidents/2022/7/30/shackleford-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-07-30",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
