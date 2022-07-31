@@ -27,7 +27,7 @@
     {
         "Name": "Oak Fire ",
         "Final": false,
-        "Updated": "2022-07-31T07:38:53Z",
+        "Updated": "2022-07-31T07:45:37Z",
         "Started": "2022-07-22T14:10:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Madera-Mariposa-Merced Unit and Sierra National Forest ",
         "AdminUnitUrl": null,
@@ -152,12 +152,12 @@
     {
         "Name": "Shackleford Fire",
         "Final": false,
-        "Updated": "2022-07-31T07:24:34Z",
+        "Updated": "2022-07-31T07:48:52Z",
         "Started": "2022-07-30T18:06:00Z",
         "AdminUnit": "CAL FIRE Siskiyou Unit",
         "AdminUnitUrl": null,
         "County": "Siskiyou",
-        "Location": "Back Meadows Rd and  Big Meadows Creek, West of Fort Jones ",
+        "Location": "Shackleford Rd and Big Meadows Creek, West of Fort Jones  ",
         "AcresBurned": 27.0,
         "PercentContained": 0.0,
         "ControlStatement": null,
