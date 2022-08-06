@@ -2152,7 +2152,7 @@
     {
         "Name": "Oak Fire ",
         "Final": false,
-        "Updated": "2022-08-06T07:54:00Z",
+        "Updated": "2022-08-06T11:42:05Z",
         "Started": "2022-07-22T14:10:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Madera-Mariposa-Merced Unit and Sierra National Forest ",
         "AdminUnitUrl": null,
@@ -2527,11 +2527,11 @@
     {
         "Name": "2022 SRF Lightning Complex Fire",
         "Final": false,
-        "Updated": "2022-08-06T10:45:22Z",
+        "Updated": "2022-08-06T11:41:01Z",
         "Started": "2022-08-05T21:44:29Z",
         "AdminUnit": "Six Rivers National Forest",
         "AdminUnitUrl": null,
-        "County": "Trinity, Humboldt",
+        "County": "Humboldt, Trinity",
         "Location": "Willow Creek Area",
         "AcresBurned": null,
         "PercentContained": null,
