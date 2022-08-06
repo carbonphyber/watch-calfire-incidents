@@ -2152,7 +2152,7 @@
     {
         "Name": "Oak Fire ",
         "Final": false,
-        "Updated": "2022-08-05T07:31:09Z",
+        "Updated": "2022-08-05T19:27:19Z",
         "Started": "2022-07-22T14:10:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Madera-Mariposa-Merced Unit and Sierra National Forest ",
         "AdminUnitUrl": null,
@@ -2161,7 +2161,7 @@
         "AcresBurned": 19244.0,
         "PercentContained": 90.0,
         "ControlStatement": null,
-        "AgencyNames": "Cooperating Agencies: Mariposa County, CalOES, PG&E, California Highway Patrol, Bureau of Land Management, North Fork Rancheria, Southern Sierra Miwuk Nation, Picayune Rancheria of Chuckchansi Indians, North Fork Mono Indians, American Red Cross, California Department of Transportation, California Department of Corrections and Rehabilitation, California Conservation Corps, Central California Animal Disaster Team, Yosemite National Park, Mariposa Public Utilities District, Merced-Mariposa Cattleman\u2019s Association, Civil Air Patrol, Ferrellgas Propane",
+        "AgencyNames": "Cooperating Agencies: Mariposa County, PG&E, California Highway Patrol, Southern Sierra Miwuk Nation, Picayune Rancheria of Chuckchansi Indians, North Fork Mono Indians, California Department of Transportation, California Department of Corrections and Rehabilitation, Yosemite National Park, North Fork Rancheria, California Conservation Corps, Mariposa Public Utilities District, Civil Air Patrol",
         "Longitude": -119.9234728,
         "Latitude": 37.5509366,
         "Type": "Wildfire",
@@ -2502,7 +2502,7 @@
     {
         "Name": "Campbell Fire",
         "Final": false,
-        "Updated": "2022-08-05T14:40:54Z",
+        "Updated": "2022-08-05T19:38:15Z",
         "Started": "2022-08-05T03:39:00Z",
         "AdminUnit": "Six Rivers National Forest",
         "AdminUnitUrl": null,
