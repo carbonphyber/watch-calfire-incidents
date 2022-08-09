@@ -2502,11 +2502,11 @@
     {
         "Name": "2022 SRF Lightning Complex Fire",
         "Final": false,
-        "Updated": "2022-08-09T07:41:52Z",
+        "Updated": "2022-08-09T08:36:44Z",
         "Started": "2022-08-05T21:44:29Z",
         "AdminUnit": "Unified Command: CAL FIRE Siskiyou, Six Rivers National Forest",
         "AdminUnitUrl": null,
-        "County": "Siskiyou, Trinity",
+        "County": "Humboldt, Trinity",
         "Location": "Willow Creek Area",
         "AcresBurned": 6775.0,
         "PercentContained": 0.0,
