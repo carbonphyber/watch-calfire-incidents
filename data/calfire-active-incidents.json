@@ -27,7 +27,7 @@
     {
         "Name": "McKinney Fire ",
         "Final": false,
-        "Updated": "2022-08-12T19:18:08Z",
+        "Updated": "2022-08-13T07:05:38Z",
         "Started": "2022-07-29T14:16:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Siskiyou Unit and Klamath National Forest ",
         "AdminUnitUrl": null,
@@ -102,13 +102,13 @@
     {
         "Name": "Six Rivers (SRF) Lightning Complex",
         "Final": false,
-        "Updated": "2022-08-12T19:29:28Z",
+        "Updated": "2022-08-13T07:16:27Z",
         "Started": "2022-08-05T21:44:29Z",
         "AdminUnit": "Unified Command: CAL FIRE Humboldt-Del Norte Unit, Six Rivers National Forest",
         "AdminUnitUrl": null,
         "County": "Humboldt, Trinity",
         "Location": "Willow Creek Area",
-        "AcresBurned": 14526.0,
+        "AcresBurned": 15232.0,
         "PercentContained": 12.0,
         "ControlStatement": null,
         "AgencyNames": "",
@@ -152,7 +152,7 @@
     {
         "Name": "3-8 Fire ",
         "Final": false,
-        "Updated": "2022-08-11T19:08:26Z",
+        "Updated": "2022-08-13T07:19:51Z",
         "Started": "2022-08-08T02:30:00Z",
         "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
         "AdminUnitUrl": null,
