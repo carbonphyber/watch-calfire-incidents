@@ -2623,5 +2623,30 @@
         "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Rail Fire",
+        "Final": false,
+        "Updated": "2022-08-14T20:37:33Z",
+        "Started": "2022-08-14T17:40:00Z",
+        "AdminUnit": "Lead Agency: Kern County Fire",
+        "AdminUnitUrl": null,
+        "County": "Kern",
+        "Location": "Bealville Rd and Caliente Bodfish Rd, Southeast of Bakersfield",
+        "AcresBurned": 250.0,
+        "PercentContained": 10.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -118.6292243,
+        "Latitude": 35.2882644,
+        "Type": "Wildfire",
+        "UniqueId": "b2407838-9dd2-45b8-a956-899bf6891b98",
+        "Url": "https://www.fire.ca.gov/incidents/2022/8/14/rail-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-08-14",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
