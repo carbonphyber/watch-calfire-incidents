@@ -2648,5 +2648,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Oak Fire",
+        "Final": false,
+        "Updated": "2022-08-15T16:42:17Z",
+        "Started": "2022-08-15T15:48:00Z",
+        "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit ",
+        "AdminUnitUrl": null,
+        "County": "Placer",
+        "Location": "Live Oak Road & Smothers Ravine Road, near Weimar ",
+        "AcresBurned": 15.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.9526,
+        "Latitude": 39.04941,
+        "Type": "Wildfire",
+        "UniqueId": "ad465a00-5520-4188-9f91-3c5568adb40e",
+        "Url": "https://www.fire.ca.gov/incidents/2022/8/15/oak-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-08-15",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
