@@ -2723,5 +2723,30 @@
         "IsActive": false,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Los Bueyes",
+        "Final": false,
+        "Updated": "2022-08-16T15:31:00Z",
+        "Started": "2022-08-16T12:38:00Z",
+        "AdminUnit": "Fort Hunter Liggett ",
+        "AdminUnitUrl": null,
+        "County": "Monterey",
+        "Location": "Training Area 20, Gabilian Road, Fort Hunter Liggett Military Base",
+        "AcresBurned": 261.0,
+        "PercentContained": 10.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.23129,
+        "Latitude": 36.003814,
+        "Type": "Wildfire",
+        "UniqueId": "4716f4ca-2a6d-4e0f-a853-78803613cf03",
+        "Url": "https://www.fire.ca.gov/incidents/2022/8/16/los-bueyes/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-08-16",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
