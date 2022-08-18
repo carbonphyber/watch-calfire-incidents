@@ -2748,5 +2748,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Quail Fire",
+        "Final": false,
+        "Updated": "2022-08-17T19:30:48Z",
+        "Started": "2022-08-17T17:31:09Z",
+        "AdminUnit": "Los Angeles County Fire Department",
+        "AdminUnitUrl": null,
+        "County": "Los Angeles",
+        "Location": "Tapia Canyon Road and Charlie Canyon Road, Castaic in Los Angeles County",
+        "AcresBurned": 50.0,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -118.60811,
+        "Latitude": 34.48202,
+        "Type": "Wildfire",
+        "UniqueId": "baa65866-c909-42c4-a414-63c31d1bb3cb",
+        "Url": "https://www.fire.ca.gov/incidents/2022/8/17/quail-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-08-17",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
