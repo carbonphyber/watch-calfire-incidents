@@ -227,7 +227,7 @@
     {
         "Name": "Pleasant Fire",
         "Final": false,
-        "Updated": "2022-08-20T16:40:25Z",
+        "Updated": "2022-08-20T16:51:47Z",
         "Started": "2022-08-20T16:35:12Z",
         "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
         "AdminUnitUrl": null,
@@ -246,7 +246,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-08-20",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
