@@ -223,5 +223,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Pleasant Fire",
+        "Final": false,
+        "Updated": "2022-08-20T16:40:25Z",
+        "Started": "2022-08-20T16:35:12Z",
+        "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
+        "AdminUnitUrl": null,
+        "County": "Nevada",
+        "Location": "Owl Creek Road and Lost Ranch Way, West of Nevada City. ",
+        "AcresBurned": 70.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.1329,
+        "Latitude": 39.2805,
+        "Type": "Wildfire",
+        "UniqueId": "8d4e0591-dd62-4c04-82f3-10eb76556cde",
+        "Url": "https://www.fire.ca.gov/incidents/2022/8/20/pleasant-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-08-20",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
