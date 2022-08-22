@@ -273,5 +273,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Valley Fire",
+        "Final": false,
+        "Updated": "2022-08-22T14:10:52Z",
+        "Started": "2022-08-22T23:55:00Z",
+        "AdminUnit": "Cleveland National Forest ",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Pine Creek Road",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.5185,
+        "Latitude": 32.8647,
+        "Type": "Wildfire",
+        "UniqueId": "0363b353-f624-4d3f-9c0a-20a81a51e154",
+        "Url": "https://www.fire.ca.gov/incidents/2022/8/22/valley-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-08-22",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
