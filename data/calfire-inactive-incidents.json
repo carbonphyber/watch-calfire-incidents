@@ -2948,5 +2948,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Gulch Fire",
+        "Final": false,
+        "Updated": "2022-08-29T16:22:25Z",
+        "Started": "2022-08-29T11:26:45Z",
+        "AdminUnit": "Angeles National Forest",
+        "AdminUnitUrl": null,
+        "County": "Los Angeles",
+        "Location": "San Gabriel Canyon Road ",
+        "AcresBurned": null,
+        "PercentContained": null,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -117.8608,
+        "Latitude": 34.2026,
+        "Type": "Wildfire",
+        "UniqueId": "599c4952-beda-4ec6-a636-47c92444a443",
+        "Url": "https://www.fire.ca.gov/incidents/2022/8/29/gulch-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-08-29",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
