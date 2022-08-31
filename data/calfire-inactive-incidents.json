@@ -2973,5 +2973,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Route Fire",
+        "Final": false,
+        "Updated": "2022-08-31T13:49:08Z",
+        "Started": "2022-08-31T12:01:00Z",
+        "AdminUnit": "Los Angeles County Fire Department ",
+        "AdminUnitUrl": null,
+        "County": "Los Angeles",
+        "Location": "I5 and Lake Hughes Road, near Castaic ",
+        "AcresBurned": 60.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -118.616,
+        "Latitude": 34.497,
+        "Type": "Wildfire",
+        "UniqueId": "40b5cdc9-57db-40da-b52d-6f4c53375bc1",
+        "Url": "https://www.fire.ca.gov/incidents/2022/8/31/route-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-08-31",
+        "IsActive": true,
+        "CalFireIncident": false,
+        "NotificationDesired": false
     }
 ]
