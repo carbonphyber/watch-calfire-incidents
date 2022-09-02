@@ -127,7 +127,7 @@
     {
         "Name": "East Fire",
         "Final": false,
-        "Updated": "2022-08-29T09:03:44Z",
+        "Updated": "2022-09-02T11:06:15Z",
         "Started": "2022-08-25T13:39:48Z",
         "AdminUnit": "Angeles National Forest",
         "AdminUnitUrl": null,
@@ -152,7 +152,7 @@
     {
         "Name": "Gulch Fire",
         "Final": false,
-        "Updated": "2022-08-29T16:22:25Z",
+        "Updated": "2022-09-02T11:04:59Z",
         "Started": "2022-08-29T11:26:45Z",
         "AdminUnit": "Angeles National Forest",
         "AdminUnitUrl": null,
@@ -277,9 +277,9 @@
     {
         "Name": "Woods Fire",
         "Final": false,
-        "Updated": "2022-09-02T08:01:50Z",
+        "Updated": "2022-09-02T11:04:44Z",
         "Started": "2022-09-01T20:40:00Z",
-        "AdminUnit": null,
+        "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
         "AdminUnitUrl": null,
         "County": "Tuolumne",
         "Location": " Highway 108 and Stockton Road, Sonora",
