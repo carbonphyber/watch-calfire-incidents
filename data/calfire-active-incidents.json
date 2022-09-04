@@ -252,7 +252,7 @@
     {
         "Name": "Mill Fire",
         "Final": false,
-        "Updated": "2022-09-04T08:34:52Z",
+        "Updated": "2022-09-04T09:10:44Z",
         "Started": "2022-09-02T12:49:00Z",
         "AdminUnit": "CAL FIRE Siskiyou Unit ",
         "AdminUnitUrl": null,
@@ -302,7 +302,7 @@
     {
         "Name": "Mountain Fire ",
         "Final": false,
-        "Updated": "2022-09-04T08:57:25Z",
+        "Updated": "2022-09-04T09:11:46Z",
         "Started": "2022-09-02T18:01:44Z",
         "AdminUnit": "CAL FIRE Siskiyou",
         "AdminUnitUrl": null,
@@ -312,8 +312,8 @@
         "PercentContained": 5.0,
         "ControlStatement": null,
         "AgencyNames": "",
-        "Longitude": -122.549922,
-        "Latitude": 41.502965,
+        "Longitude": -122.627469,
+        "Latitude": 41.459009,
         "Type": "Wildfire",
         "UniqueId": "0f74249b-6f78-4266-b3f0-c61b5626d6af",
         "Url": "https://www.fire.ca.gov/incidents/2022/9/2/mountain-fire/",
