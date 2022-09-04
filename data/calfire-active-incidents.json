@@ -127,7 +127,7 @@
     {
         "Name": "Gulch Fire",
         "Final": false,
-        "Updated": "2022-09-02T11:04:59Z",
+        "Updated": "2022-09-03T19:38:16Z",
         "Started": "2022-08-29T11:26:45Z",
         "AdminUnit": "Angeles National Forest",
         "AdminUnitUrl": null,
@@ -152,7 +152,7 @@
     {
         "Name": "Route Fire",
         "Final": false,
-        "Updated": "2022-09-03T19:18:03Z",
+        "Updated": "2022-09-03T19:37:46Z",
         "Started": "2022-08-31T12:01:00Z",
         "AdminUnit": "Unified Command Los Angeles County Fire Department and Angeles National Forest",
         "AdminUnitUrl": null,
@@ -177,7 +177,7 @@
     {
         "Name": "Border 32",
         "Final": false,
-        "Updated": "2022-09-03T19:20:24Z",
+        "Updated": "2022-09-03T19:37:29Z",
         "Started": "2022-08-31T14:17:00Z",
         "AdminUnit": "CAL FIRE San Diego Unit ",
         "AdminUnitUrl": null,
@@ -202,7 +202,7 @@
     {
         "Name": "Walker Fire",
         "Final": false,
-        "Updated": "2022-09-03T19:12:46Z",
+        "Updated": "2022-09-03T19:36:59Z",
         "Started": "2022-09-01T15:59:00Z",
         "AdminUnit": "CAL FIRE Mendocino",
         "AdminUnitUrl": null,
@@ -252,7 +252,7 @@
     {
         "Name": "Mill Fire",
         "Final": false,
-        "Updated": "2022-09-03T18:28:52Z",
+        "Updated": "2022-09-03T19:36:46Z",
         "Started": "2022-09-02T12:49:00Z",
         "AdminUnit": "CAL FIRE Siskiyou Unit ",
         "AdminUnitUrl": null,
@@ -277,7 +277,7 @@
     {
         "Name": "Tower Fire",
         "Final": false,
-        "Updated": "2022-09-03T19:27:40Z",
+        "Updated": "2022-09-03T19:36:34Z",
         "Started": "2022-09-02T16:18:02Z",
         "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
         "AdminUnitUrl": null,
@@ -302,7 +302,7 @@
     {
         "Name": "Mountain Fire ",
         "Final": false,
-        "Updated": "2022-09-03T19:29:59Z",
+        "Updated": "2022-09-03T19:36:20Z",
         "Started": "2022-09-02T18:01:44Z",
         "AdminUnit": "CAL FIRE Siskiyou",
         "AdminUnitUrl": null,
