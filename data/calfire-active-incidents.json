@@ -298,5 +298,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Caesar Fire",
+        "Final": false,
+        "Updated": "2022-09-05T12:49:07Z",
+        "Started": "2022-09-05T12:00:00Z",
+        "AdminUnit": "CAL FIRE San Diego Unit",
+        "AdminUnitUrl": null,
+        "County": "San Diego",
+        "Location": "Hwy 78 and Ramona Trails Dr., east of Ramona",
+        "AcresBurned": 20.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -116.811345,
+        "Latitude": 33.064629,
+        "Type": "Wildfire",
+        "UniqueId": "555f187c-f8af-4a8c-87b1-2a849cf34b7f",
+        "Url": "https://www.fire.ca.gov/incidents/2022/9/5/caesar-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-09-05",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
