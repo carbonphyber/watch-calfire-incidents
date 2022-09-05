@@ -327,7 +327,7 @@
     {
         "Name": "Fairview Fire",
         "Final": false,
-        "Updated": "2022-09-05T16:26:49Z",
+        "Updated": "2022-09-05T16:43:11Z",
         "Started": "2022-09-05T16:00:00Z",
         "AdminUnit": "CAL FIRE Riverside Unit",
         "AdminUnitUrl": null,
@@ -346,7 +346,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-09-05",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
