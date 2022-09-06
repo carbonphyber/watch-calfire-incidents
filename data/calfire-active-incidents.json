@@ -352,7 +352,7 @@
     {
         "Name": "Rosa Fire",
         "Final": false,
-        "Updated": "2022-09-06T15:43:54Z",
+        "Updated": "2022-09-06T15:45:24Z",
         "Started": "2022-09-06T15:15:00Z",
         "AdminUnit": "CAL FIRE San Luis Obispo Unit",
         "AdminUnitUrl": null,
@@ -371,7 +371,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-09-06",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
