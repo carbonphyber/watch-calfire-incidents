@@ -152,7 +152,7 @@
     {
         "Name": "Walker Fire",
         "Final": false,
-        "Updated": "2022-09-06T19:22:37Z",
+        "Updated": "2022-09-07T07:57:51Z",
         "Started": "2022-09-01T15:59:00Z",
         "AdminUnit": "CAL FIRE Mendocino",
         "AdminUnitUrl": null,
@@ -161,7 +161,7 @@
         "AcresBurned": 124.0,
         "PercentContained": 85.0,
         "ControlStatement": null,
-        "AgencyNames": "City of Willits, Mendocino County Sheriff\u2019s Office, Calfornia Department of Transportation, California National Guard, Little Lake Fire Department",
+        "AgencyNames": "City of Willits, California National Guard",
         "Longitude": -123.3159,
         "Latitude": 39.3669,
         "Type": "Wildfire",
@@ -327,7 +327,7 @@
     {
         "Name": "Mosquito Fire",
         "Final": false,
-        "Updated": "2022-09-07T07:47:10Z",
+        "Updated": "2022-09-07T07:59:58Z",
         "Started": "2022-09-06T18:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Nevada-Yuba-Placer Unit & Tahoe National Forest",
         "AdminUnitUrl": null,
