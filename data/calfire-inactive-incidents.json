@@ -2251,8 +2251,8 @@
     },
     {
         "Name": "McKinney Fire ",
-        "Final": false,
-        "Updated": "2022-09-07T19:08:31Z",
+        "Final": true,
+        "Updated": "2022-09-08T09:26:59Z",
         "Started": "2022-07-29T14:16:00Z",
         "AdminUnit": "Klamath National Forest ",
         "AdminUnitUrl": null,
@@ -2270,7 +2270,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-07-29",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
@@ -3227,7 +3227,7 @@
     {
         "Name": "Fairview Fire",
         "Final": false,
-        "Updated": "2022-09-08T08:05:36Z",
+        "Updated": "2022-09-08T09:35:09Z",
         "Started": "2022-09-05T16:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Riverside Unit & Hemet Fire Department ",
         "AdminUnitUrl": null,
@@ -3427,7 +3427,7 @@
     {
         "Name": "Barnes Fire",
         "Final": false,
-        "Updated": "2022-09-07T19:33:49Z",
+        "Updated": "2022-09-08T09:30:02Z",
         "Started": "2022-09-07T15:59:00Z",
         "AdminUnit": "Modoc National Forest",
         "AdminUnitUrl": null,
