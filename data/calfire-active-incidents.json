@@ -152,7 +152,7 @@
     {
         "Name": "Fairview Fire",
         "Final": false,
-        "Updated": "2022-09-09T10:51:04Z",
+        "Updated": "2022-09-09T11:40:26Z",
         "Started": "2022-09-05T16:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Riverside Unit, Hemet Fire Department, and USFS \u2013 San Bernardino National Forest",
         "AdminUnitUrl": null,
@@ -252,7 +252,7 @@
     {
         "Name": "Mosquito Fire",
         "Final": false,
-        "Updated": "2022-09-09T09:04:03Z",
+        "Updated": "2022-09-09T11:40:30Z",
         "Started": "2022-09-06T18:00:00Z",
         "AdminUnit": "Unified Command: CAL FIRE Nevada-Yuba-Placer Unit, USFS Tahoe National Forest, Foresthill Fire Protection District, and Placer County Sheriff\u2019s Office",
         "AdminUnitUrl": null,
@@ -261,7 +261,7 @@
         "AcresBurned": 14250.0,
         "PercentContained": 0.0,
         "ControlStatement": null,
-        "AgencyNames": "",
+        "AgencyNames": "CAL FIRE/Riverside, City of Corona FD, City of Hemet FD, Morongo Fire Department, Murrieta Fire Protection District, Orange County Fire Authority Copter, Riverside City FD, Riverside County Emergency Management Department, Riverside County Sheriff\u2019s Office, USFS \u2013 San Bernardino",
         "Longitude": -120.7447,
         "Latitude": 39.00591,
         "Type": "Wildfire",
