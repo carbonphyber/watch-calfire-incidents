@@ -102,7 +102,7 @@
     {
         "Name": "Mountain Fire ",
         "Final": false,
-        "Updated": "2022-09-12T12:15:59Z",
+        "Updated": "2022-09-12T12:36:02Z",
         "Started": "2022-09-02T15:48:00Z",
         "AdminUnit": "CAL FIRE Siskiyou",
         "AdminUnitUrl": null,
@@ -177,7 +177,7 @@
     {
         "Name": "Radford Fire",
         "Final": false,
-        "Updated": "2022-09-12T12:26:55Z",
+        "Updated": "2022-09-12T12:30:48Z",
         "Started": "2022-09-06T11:52:15Z",
         "AdminUnit": "San Bernardino National Forest ",
         "AdminUnitUrl": null,
@@ -227,7 +227,7 @@
     {
         "Name": "Fork Fire ",
         "Final": false,
-        "Updated": "2022-09-12T12:25:55Z",
+        "Updated": "2022-09-12T12:37:14Z",
         "Started": "2022-09-07T15:30:00Z",
         "AdminUnit": "CALFIRE Madera-Mariposa-Merced Unit ",
         "AdminUnitUrl": null,
@@ -252,7 +252,7 @@
     {
         "Name": "Coyote Fire",
         "Final": false,
-        "Updated": "2022-09-12T10:46:45Z",
+        "Updated": "2022-09-12T12:37:43Z",
         "Started": "2022-09-07T14:52:00Z",
         "AdminUnit": "CAL FIRE Siskiyou Unit",
         "AdminUnitUrl": null,
@@ -261,7 +261,7 @@
         "AcresBurned": 297.0,
         "PercentContained": 80.0,
         "ControlStatement": null,
-        "AgencyNames": "Siskiyou County Sheriff's Office, CalOES, US Forest Service, US Department of Agriculture, Pacific Power and Light, Lake Shastina Community Service District, Bureau of Land Management, City of Weed, Siskiyou County OES, AT&T, CALTRANS, California Department of Corrections and Rehabilitation, CHP, Red Cross, Blue Star Gas, Northern California Fire Cooperative Association, University of California Cooperative Extension, and California Conservation Corps",
+        "AgencyNames": "",
         "Longitude": -121.839853,
         "Latitude": 41.8739166,
         "Type": "Wildfire",
@@ -377,7 +377,7 @@
     {
         "Name": "Forward Fire",
         "Final": false,
-        "Updated": "2022-09-12T10:46:47Z",
+        "Updated": "2022-09-12T12:34:11Z",
         "Started": "2022-09-09T14:31:00Z",
         "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
         "AdminUnitUrl": null,
@@ -386,7 +386,7 @@
         "AcresBurned": 160.0,
         "PercentContained": 35.0,
         "ControlStatement": null,
-        "AgencyNames": "Siskiyou County Sheriff's Office, CalOES, US Forest Service, US Department of Agriculture, Pacific Power and Light, Lake Shastina Community Service District, Bureau of Land Management, City of Weed, Siskiyou County OES, AT&T, CALTRANS, California Department of Corrections and Rehabilitation, CHP, Red Cross, Blue Star Gas, Northern California Fire Cooperative Association, University of California Cooperative Extension, and California Conservation Corps",
+        "AgencyNames": "",
         "Longitude": -121.81822,
         "Latitude": 40.44109,
         "Type": "Wildfire",
