@@ -373,5 +373,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Dutch Fire",
+        "Final": false,
+        "Updated": "2022-09-13T14:46:12Z",
+        "Started": "2022-09-13T12:51:00Z",
+        "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit ",
+        "AdminUnitUrl": null,
+        "County": "Placer",
+        "Location": "I-80 & Ridge Rd, Dutch Flat",
+        "AcresBurned": 25.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -120.8266,
+        "Latitude": 39.1902,
+        "Type": "Wildfire",
+        "UniqueId": "e97ebb75-7d6d-4925-a27b-2bb9daec9fbf",
+        "Url": "https://www.fire.ca.gov/incidents/2022/9/13/dutch-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-09-13",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
