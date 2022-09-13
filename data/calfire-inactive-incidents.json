@@ -3502,7 +3502,7 @@
     {
         "Name": "Eliza Fire",
         "Final": false,
-        "Updated": "2022-09-10T10:10:51Z",
+        "Updated": "2022-09-13T16:01:29Z",
         "Started": "2022-09-08T19:57:47Z",
         "AdminUnit": "Klamath National Forest",
         "AdminUnitUrl": null,
@@ -3510,7 +3510,7 @@
         "Location": "Hawkinsville Humbug Rd and Humbug Creek Rd west of Yreka",
         "AcresBurned": null,
         "PercentContained": null,
-        "ControlStatement": null,
+        "ControlStatement": "",
         "AgencyNames": "",
         "Longitude": -122.692408,
         "Latitude": 41.793769,
