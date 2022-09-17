@@ -3573,5 +3573,30 @@
         "IsActive": true,
         "CalFireIncident": true,
         "NotificationDesired": false
+    },
+    {
+        "Name": "Garden Fire",
+        "Final": false,
+        "Updated": "2022-09-17T15:17:18Z",
+        "Started": "2022-09-17T14:58:32Z",
+        "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
+        "AdminUnitUrl": null,
+        "County": "Placer",
+        "Location": "Garden Bar Road and Big Hill Road, Northwest of Auburn",
+        "AcresBurned": 30.0,
+        "PercentContained": 0.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -121.2122,
+        "Latitude": 39.9929,
+        "Type": "Wildfire",
+        "UniqueId": "4b8ffb4c-e539-4cfa-82a0-2aa148b43ee9",
+        "Url": "https://www.fire.ca.gov/incidents/2022/9/17/garden-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-09-17",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
