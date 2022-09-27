@@ -127,7 +127,7 @@
     {
         "Name": "Mosquito Fire",
         "Final": false,
-        "Updated": "2022-09-23T16:27:20Z",
+        "Updated": "2022-09-27T08:11:30Z",
         "Started": "2022-09-06T18:00:00Z",
         "AdminUnit": "Unified Command: Tahoe National Forest, El Dorado National Forest",
         "AdminUnitUrl": null,
@@ -252,9 +252,9 @@
     {
         "Name": "Irie Fire",
         "Final": false,
-        "Updated": "2022-09-21T15:16:20Z",
+        "Updated": "2022-09-27T08:13:57Z",
         "Started": "2022-09-21T07:29:00Z",
-        "AdminUnit": "Lead Agency: Bureau of Indian Affairs",
+        "AdminUnit": "Bureau of Indian Affairs",
         "AdminUnitUrl": null,
         "County": "Tulare",
         "Location": "Gibbons Rd. and Gibbons Canyon, east of Porterville",
@@ -277,7 +277,7 @@
     {
         "Name": "Manzanita Fire ",
         "Final": false,
-        "Updated": "2022-09-23T16:41:34Z",
+        "Updated": "2022-09-27T08:12:46Z",
         "Started": "2022-09-23T15:23:00Z",
         "AdminUnit": "San Bernardino National Forest ",
         "AdminUnitUrl": null,
