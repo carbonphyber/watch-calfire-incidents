@@ -298,5 +298,30 @@
         "IsActive": true,
         "CalFireIncident": false,
         "NotificationDesired": false
+    },
+    {
+        "Name": "97 Fire",
+        "Final": false,
+        "Updated": "2022-09-28T09:04:57Z",
+        "Started": "2022-09-27T08:54:50Z",
+        "AdminUnit": "CAL FIRE Siskiyou Unit ",
+        "AdminUnitUrl": null,
+        "County": "Siskiyou",
+        "Location": "Quarry Road and Quarry Lance, Lake Shastina ",
+        "AcresBurned": 30.0,
+        "PercentContained": 45.0,
+        "ControlStatement": null,
+        "AgencyNames": "",
+        "Longitude": -122.3414,
+        "Latitude": 41.4987,
+        "Type": "Wildfire",
+        "UniqueId": "a5373b17-81bc-4a24-a844-148cb5de6b10",
+        "Url": "https://www.fire.ca.gov/incidents/2022/9/27/97-fire/",
+        "ExtinguishedDate": "",
+        "ExtinguishedDateOnly": "",
+        "StartedDateOnly": "2022-09-27",
+        "IsActive": true,
+        "CalFireIncident": true,
+        "NotificationDesired": false
     }
 ]
