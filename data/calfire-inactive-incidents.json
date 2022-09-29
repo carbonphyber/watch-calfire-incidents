@@ -3477,7 +3477,7 @@
     {
         "Name": "Rodgers Fire",
         "Final": false,
-        "Updated": "2022-09-12T10:30:43Z",
+        "Updated": "2022-09-29T10:18:17Z",
         "Started": "2022-08-08T10:09:32Z",
         "AdminUnit": "Yosemite National Park ",
         "AdminUnitUrl": null,
@@ -3486,7 +3486,7 @@
         "AcresBurned": null,
         "PercentContained": null,
         "ControlStatement": null,
-        "AgencyNames": "Siskiyou County Sheriff's Office, CalOES, US Forest Service, US Department of Agriculture, Pacific Power and Light, Lake Shastina Community Service District, Bureau of Land Management, City of Weed, Siskiyou County OES, AT&T, CALTRANS, California Department of Corrections and Rehabilitation, CHP, Red Cross, Blue Star Gas, Northern California Fire Cooperative Association, University of California Cooperative Extension, and California Conservation Corps",
+        "AgencyNames": "",
         "Longitude": -119.552,
         "Latitude": 37.954,
         "Type": "Wildfire",
