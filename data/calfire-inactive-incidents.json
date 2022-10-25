@@ -3702,14 +3702,14 @@
     {
         "Name": "Pleasant Fire ",
         "Final": false,
-        "Updated": "2022-10-24T18:06:01Z",
+        "Updated": "2022-10-25T08:40:33Z",
         "Started": "2022-10-23T12:55:00Z",
         "AdminUnit": "CAL FIRE San Bernardino Unit  ",
         "AdminUnitUrl": null,
         "County": "Inyo",
         "Location": "Hwy 395 & Sawmill Road, Bishop ",
-        "AcresBurned": 65.0,
-        "PercentContained": 50.0,
+        "AcresBurned": 50.0,
+        "PercentContained": 90.0,
         "ControlStatement": null,
         "AgencyNames": "",
         "Longitude": -118.50091,
@@ -3721,7 +3721,7 @@
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-10-23",
         "IsActive": true,
-        "CalFireIncident": false,
+        "CalFireIncident": true,
         "NotificationDesired": false
     }
 ]
