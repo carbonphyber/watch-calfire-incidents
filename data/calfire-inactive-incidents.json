@@ -277,7 +277,7 @@
     {
         "Name": "Moonlight RX",
         "Final": false,
-        "Updated": "2022-05-23T09:40:33Z",
+        "Updated": "2022-10-27T11:55:16Z",
         "Started": "2022-04-09T17:55:59Z",
         "AdminUnit": "Plumas National Forest",
         "AdminUnitUrl": null,
@@ -627,7 +627,7 @@
     {
         "Name": "Edward Fire",
         "Final": true,
-        "Updated": "2022-06-01T10:16:08Z",
+        "Updated": "2022-10-27T11:54:45Z",
         "Started": "2022-05-24T10:53:00Z",
         "AdminUnit": "Orland Fire Department",
         "AdminUnitUrl": null,
@@ -3227,7 +3227,7 @@
     {
         "Name": "Fairview Fire",
         "Final": false,
-        "Updated": "2022-09-22T18:56:58Z",
+        "Updated": "2022-10-27T11:52:59Z",
         "Started": "2022-09-05T16:00:00Z",
         "AdminUnit": "Lead Agency: USFS \u2013 San Bernardino National Forest",
         "AdminUnitUrl": null,
@@ -3245,7 +3245,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-09-05",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
@@ -3602,7 +3602,7 @@
     {
         "Name": "Irie Fire",
         "Final": false,
-        "Updated": "2022-09-27T08:13:57Z",
+        "Updated": "2022-10-27T11:36:59Z",
         "Started": "2022-09-21T07:29:00Z",
         "AdminUnit": "Bureau of Indian Affairs",
         "AdminUnitUrl": null,
@@ -3620,14 +3620,14 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-09-21",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
     {
         "Name": "Manzanita Fire ",
         "Final": false,
-        "Updated": "2022-09-27T08:12:46Z",
+        "Updated": "2022-10-27T11:36:47Z",
         "Started": "2022-09-23T15:23:00Z",
         "AdminUnit": "San Bernardino National Forest ",
         "AdminUnitUrl": null,
@@ -3645,7 +3645,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-09-23",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
@@ -3677,7 +3677,7 @@
     {
         "Name": "Howard Fire",
         "Final": false,
-        "Updated": "2022-10-08T18:16:07Z",
+        "Updated": "2022-10-27T11:53:52Z",
         "Started": "2022-10-08T15:42:50Z",
         "AdminUnit": "Los Padres National Forest ",
         "AdminUnitUrl": null,
@@ -3695,7 +3695,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-10-08",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
