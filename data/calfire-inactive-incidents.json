@@ -2502,7 +2502,7 @@
     {
         "Name": "Six Rivers (SRF) Lightning Complex",
         "Final": false,
-        "Updated": "2022-09-13T09:11:08Z",
+        "Updated": "2022-10-28T11:25:17Z",
         "Started": "2022-08-05T21:44:29Z",
         "AdminUnit": "Six Rivers National Forest",
         "AdminUnitUrl": null,
@@ -2520,14 +2520,14 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-08-05",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
     {
         "Name": "Yeti and Alex Fire",
         "Final": false,
-        "Updated": "2022-09-10T10:32:42Z",
+        "Updated": "2022-10-28T11:24:48Z",
         "Started": "2022-07-29T17:14:12Z",
         "AdminUnit": "Klamath National Forest ",
         "AdminUnitUrl": null,
@@ -2545,7 +2545,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-07-29",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
@@ -3452,7 +3452,7 @@
     {
         "Name": "Red Fire",
         "Final": false,
-        "Updated": "2022-09-13T09:12:17Z",
+        "Updated": "2022-10-28T11:25:54Z",
         "Started": "2022-09-04T10:04:42Z",
         "AdminUnit": "Yosemite National Park ",
         "AdminUnitUrl": null,
@@ -3470,14 +3470,14 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-09-04",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
     {
         "Name": "Rodgers Fire",
         "Final": false,
-        "Updated": "2022-09-29T10:18:17Z",
+        "Updated": "2022-10-28T11:25:42Z",
         "Started": "2022-08-08T10:09:32Z",
         "AdminUnit": "Yosemite National Park ",
         "AdminUnitUrl": null,
@@ -3495,14 +3495,14 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-08-08",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
     {
         "Name": "Eliza Fire",
         "Final": false,
-        "Updated": "2022-09-16T09:28:46Z",
+        "Updated": "2022-10-28T11:25:04Z",
         "Started": "2022-09-08T19:57:47Z",
         "AdminUnit": "Klamath National Forest",
         "AdminUnitUrl": null,
@@ -3520,7 +3520,7 @@
         "ExtinguishedDate": "",
         "ExtinguishedDateOnly": "",
         "StartedDateOnly": "2022-09-08",
-        "IsActive": true,
+        "IsActive": false,
         "CalFireIncident": false,
         "NotificationDesired": false
     },
